@@ -187,4 +187,87 @@
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+
+    <!-- Alert Slider -->
+    <string name="slider_title">Alert Slider</string>
+    <string name="mute_media_title">Mute media volume</string>
+    <string name="mute_media_summary">Turn off media volume when the alert slider is set to silent</string>
+    <string name="mute_media_warning">This will only take effect for speaker</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">Default</string>
+    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
+    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+
+    <!-- Device Settings -->
+    <string name="device_title">OnePlus Settings</string>
+    <string name="device_summary">Adjust OnePlus specific device settings</string>
+
+    <!-- Display Modes -->
+    <string name="display_title">Display Modes</string>
+    <string name="hbm_mode_summary">Instantly enable the peak luminance of the display</string>
+    <string name="hbm_mode_title">High brightness</string>
+    <string name="auto_hbm_summary">Enable peak luminance based on sunlight</string>
+    <string name="auto_hbm_title">Automatic High brightness</string>
+    <string name="auto_hbm_threshold_title">Automatic High brightness threshold (lux)</string>
+    <string name="auto_hbm_threshold_summary">Adjust peak luminance of the display </string>
+    <string name="tile_hbm_mode">High brightness</string>
+    <string name="dc_mode_summary">Dim backlight by adjusting DC current drawn to the display</string>
+    <string name="dc_mode_title">DC Dimming</string>
+
+    <!-- Dolby -->
+    <string name="dolby_category">Dolby</string>
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_summary">Configure the audio output based on media content</string>
+
+    <!-- Doze -->
+    <string name="doze_panel_title">Doze</string>
+
+    <!-- FPS Info -->
+    <string name="fps_title">FPS Info</string>
+    <string name="fps_info_title">FPS Overlay</string>
+    <string name="fps_info_summary">Show overlay with current frames per second</string>
+    <string name="fps_info_color_title">Text Color</string>
+    <string name="fps_info_color_green">Green</string>
+    <string name="fps_info_color_red">Red</string>
+    <string name="fps_info_color_blue">Blue</string>
+    <string name="fps_info_color_yellow">Yellow</string>
+    <string name="fps_info_color_black">Black</string>
+    <string name="fps_info_color_accent">Follow System</string>
+    <string name="fps_info_position_title">Overlay Position</string>
+    <string name="fps_info_position_top_left">Top left</string>
+    <string name="fps_info_position_top_center">Top center</string>
+    <string name="fps_info_position_top_right">Top right</string>
+    <string name="fps_info_position_bottom_left">Bottom left</string>
+    <string name="fps_info_position_bottom_center">Bottom center</string>
+    <string name="fps_info_position_bottom_right">Bottom right</string>
+    <string name="fps_info_text_size_title">Text Size</string>
+
+    <!-- Network -->
+    <string name="network_title">Network</string>
+    <string name="nr_mode_switcher_title">5G Modes Switcher</string>
+    <string name="nsa_only">NSA Only</string>
+    <string name="sa_only">SA Only</string>
+    <string name="nsa_sa">NSA + SA</string>
+    <string name="nr_mode_switcher_warning">Please set again after reboot/changed data sim card</string>
+    <string name="service_not_ready">Service not ready, please try again</string>
+    <string name="unavailable_sim_slot">Unable to get current mobile data slot, please try again</string>
+
+    <!-- Touchpanel -->
+    <string name="touchpanel_title">Touchpanel</string>
+    <string name="game_mode_title">High touch sample</string>
+    <string name="game_mode_summary">Boost touch sampling rate for all applications</string>
+    <string name="game_mode_warning">Increases power consumption</string>
+    <string name="edge_touch_title">Unlimit edge touch</string>
+    <string name="edge_touch_summary">Improve multi-touch experience in games</string>
+    <string name="edge_touch_warning">Increases possibility of accidental touch</string>
+
+    <!-- Unsupported feature -->
+    <string name="unsupported_feature">This feature is unavailable on current kernel</string>
+
+    <!-- Vibration Strength -->
+    <string name="category_vibrator">Vibrator</string>
+    <string name="vib_strength_title_head">Strength</string>
+    <string name="vib_strength_summary_head">Define the strength of the vibration motor</string>
 </resources>
