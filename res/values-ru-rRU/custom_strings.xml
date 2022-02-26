@@ -121,7 +121,7 @@
     <string name="feedback_intensity_medium">Средняя</string>
     <string name="feedback_intensity_high">Высокая</string>
     <!-- Dialog texts -->
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">ОК</string>
     <!-- Generic texts -->
     <string name="disabled">Выключен</string>
     <!-- Help texts -->
@@ -157,12 +157,12 @@
     <string name="slider_title">Suwak powiadomień</string>
     <string name="mute_media_title">Wycisz głośność multimediów w trybie cichym</string>
     <string name="mute_media_summary">Będzie to skuteczne tylko dla głośnika rozmowy</string>
-    <string name="mute_media_warning">This will only take effect for speaker</string>
+    <string name="mute_media_warning">Это воздействует только на динамик</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Значение: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">По умолчанию</string>
+    <string name="custom_seekbar_default_value_to_set">Значение по умолчанию: <xliff:g id="v">%s</xliff:g>\nДлительное нажатие для установки</string>
+    <string name="custom_seekbar_default_value_is_set">Значение по умолчанию установлено</string>
     <!-- Device Settings -->
     <string name="device_title">Ustawienia OnePlus</string>
     <string name="device_summary">Dostosuj ustawienia urządzenia OnePlus</string>
@@ -187,7 +187,7 @@
     <string name="fps_title">Informacje o liczniku klatek</string>
     <string name="fps_info_title">Nakładka licznika klatek</string>
     <string name="fps_info_summary">Pokaż nakładkę z aktualnymi klatkami na sekundę</string>
-    <string name="fps_info_color_title">Text Color</string>
+    <string name="fps_info_color_title">Цвет текста</string>
     <string name="fps_info_color_green">Zielony</string>
     <string name="fps_info_color_red">Czerwony</string>
     <string name="fps_info_color_blue">Niebieski</string>
@@ -195,30 +195,30 @@
     <string name="fps_info_color_black">Czarny</string>
     <string name="fps_info_color_accent">Śledź system</string>
     <string name="fps_info_position_title">Pozycja nakładki</string>
-    <string name="fps_info_position_top_left">Top left</string>
-    <string name="fps_info_position_top_center">Top center</string>
-    <string name="fps_info_position_top_right">Top right</string>
-    <string name="fps_info_position_bottom_left">Bottom left</string>
-    <string name="fps_info_position_bottom_center">Bottom center</string>
-    <string name="fps_info_position_bottom_right">Bottom right</string>
+    <string name="fps_info_position_top_left">Слева вверху</string>
+    <string name="fps_info_position_top_center">По центру сверху</string>
+    <string name="fps_info_position_top_right">Справа вверху</string>
+    <string name="fps_info_position_bottom_left">Слева внизу</string>
+    <string name="fps_info_position_bottom_center">По центру снизу</string>
+    <string name="fps_info_position_bottom_right">Справа внизу</string>
     <string name="fps_info_text_size_title">Rozmiar czcionki</string>
     <!-- Network -->
-    <string name="network_title">Network</string>
-    <string name="nr_mode_switcher_title">5G Modes Switcher</string>
-    <string name="nsa_only">NSA Only</string>
-    <string name="sa_only">SA Only</string>
+    <string name="network_title">Сеть</string>
+    <string name="nr_mode_switcher_title">Переключатель режимов 5G</string>
+    <string name="nsa_only">Только NSA</string>
+    <string name="sa_only">Только SA</string>
     <string name="nsa_sa">NSA + SA</string>
-    <string name="nr_mode_switcher_warning">Please set again after reboot/changed data sim card</string>
-    <string name="service_not_ready">Service not ready, please try again</string>
-    <string name="unavailable_sim_slot">Unable to get current mobile data slot, please try again</string>
+    <string name="nr_mode_switcher_warning">Пожалуйста, повторите настройку после перезагрузки/изменения данных sim-карты</string>
+    <string name="service_not_ready">Сервис не готов, попробуйте еще раз</string>
+    <string name="unavailable_sim_slot">Невозможно получить текущий слот мобильных данных, пожалуйста, попробуйте еще раз</string>
     <!-- Touchpanel -->
-    <string name="touchpanel_title">Touchpanel</string>
+    <string name="touchpanel_title">Сенсорная панель</string>
     <string name="game_mode_title">Tryb gry</string>
     <string name="game_mode_summary">Zwiększ częstotliwość próbkowania dotykowego we wszystkich aplikacjach</string>
-    <string name="game_mode_warning">Increases power consumption</string>
-    <string name="edge_touch_title">Unlimit edge touch</string>
-    <string name="edge_touch_summary">Improve multi-touch experience in games</string>
-    <string name="edge_touch_warning">Increases possibility of accidental touch</string>
+    <string name="game_mode_warning">Увеличивает энергопотребление</string>
+    <string name="edge_touch_title">Неограниченное касание краев</string>
+    <string name="edge_touch_summary">Улучшение работы мультитач в играх</string>
+    <string name="edge_touch_warning">Увеличивает вероятность случайного прикосновения</string>
     <!-- Unsupported feature -->
     <string name="unsupported_feature">Ta funkcja nie jest dostępna w bieżącym jądrze</string>
     <!-- Vibration Strength -->
