@@ -18,211 +18,211 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Advanced settings</string>
+    <string name="device_settings_app_name">高度な設定</string>
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">Gestures</string>
+    <string name="screen_gestures_panel_title">ジェスチャー</string>
     <!-- Touchscreen gesture haptic feedback -->
-    <string name="touchscreen_gesture_extras">Extras</string>
-    <string name="touchscreen_gesture_haptic_feedback">Haptic feedback</string>
-    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a touchscreen gesture is detected</string>
+    <string name="touchscreen_gesture_extras">追加の機能</string>
+    <string name="touchscreen_gesture_haptic_feedback">振動フィードバック</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">タッチ画面のジェスチャーを検出したら振動させる</string>
     <!-- Touchscreen gestures -->
-    <string name="touchscreen_gesture_settings_title">Touchscreen gestures</string>
-    <string name="touchscreen_gesture_settings_summary">Perform various touchscreen gestures for quick actions</string>
-    <string name="gesture_display_title">Screen off gestures</string>
-    <string name="touchscreen_c_gesture_title">Camera</string>
-    <string name="touchscreen_c_gesture_summary">Draw a \"C\" to activate camera</string>
-    <string name="touchscreen_e_gesture_title">Email</string>
-    <string name="touchscreen_e_gesture_summary">Draw an \"e\" to open the email app</string>
-    <string name="touchscreen_m_gesture_title">Messaging</string>
-    <string name="touchscreen_m_gesture_summary">Draw a \"M\" to open the messaging app</string>
-    <string name="touchscreen_s_gesture_title">Messaging</string>
-    <string name="touchscreen_s_gesture_summary">Draw an \"S\" to open the messaging app</string>
-    <string name="touchscreen_v_gesture_title">Dialer</string>
-    <string name="touchscreen_v_gesture_summary">Draw a \"V\" to open the dialer app</string>
-    <string name="touchscreen_w_gesture_title">Browser</string>
-    <string name="touchscreen_w_gesture_summary">Draw a \"W\" to open the browser app</string>
-    <string name="touchscreen_z_gesture_title">Flashlight</string>
-    <string name="touchscreen_z_gesture_summary">Draw a \"Z\" to toggle flashlight</string>
-    <string name="touchscreen_flashlight_gesture_title">Flashlight</string>
-    <string name="touchscreen_flashlight_gesture_summary">Draw a circle to toggle flashlight</string>
-    <string name="touchscreen_music_gesture_title">Music</string>
-    <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
-    • Swipe down to play/pause\n
-    • Swipe left for previous track\n
-    • Swipe right for next track</string>
-    <string name="touchscreen_swipe_up_title">Swipe up</string>
-    <string name="touchscreen_swipe_right_title">Swipe right</string>
-    <string name="touchscreen_swipe_down_title">Swipe down</string>
-    <string name="touchscreen_swipe_left_title">Swipe left</string>
+    <string name="touchscreen_gesture_settings_title">タッチ画面のジェスチャー</string>
+    <string name="touchscreen_gesture_settings_summary">クイックアクションの様々なタッチ画面のジェスチャーを構成する</string>
+    <string name="gesture_display_title">画面消灯ジェスチャー</string>
+    <string name="touchscreen_c_gesture_title">カメラ</string>
+    <string name="touchscreen_c_gesture_summary">「C」を描いてカメラを起動する</string>
+    <string name="touchscreen_e_gesture_title">Eメール</string>
+    <string name="touchscreen_e_gesture_summary">「e」を描いてメールを起動する</string>
+    <string name="touchscreen_m_gesture_title">メッセージ</string>
+    <string name="touchscreen_m_gesture_summary">「M」を描いてメッセージを起動する</string>
+    <string name="touchscreen_s_gesture_title">メッセージ</string>
+    <string name="touchscreen_s_gesture_summary">「S」を描いてメッセージを起動する</string>
+    <string name="touchscreen_v_gesture_title">ダイアラー</string>
+    <string name="touchscreen_v_gesture_summary">「V」を描いてダイアラーを起動する</string>
+    <string name="touchscreen_w_gesture_title">ブラウザー</string>
+    <string name="touchscreen_w_gesture_summary">「W」を描いてブラウザーを起動する</string>
+    <string name="touchscreen_z_gesture_title">フラッシュライト</string>
+    <string name="touchscreen_z_gesture_summary">「Z」を描いてフラッシュライトを点灯させる</string>
+    <string name="touchscreen_flashlight_gesture_title">フラッシュライト</string>
+    <string name="touchscreen_flashlight_gesture_summary">円を描いてフラッシュライトを点灯させる</string>
+    <string name="touchscreen_music_gesture_title">音楽</string>
+    <string name="touchscreen_music_gesture_summary">音楽再生を制御するジェスチャーを使用する\n
+    • 下スワイプで再生/一時停止\n
+    • 左スワイプで前のトラック\n
+    • 右スワイプで次のトラック</string>
+    <string name="touchscreen_swipe_up_title">上スワイプ</string>
+    <string name="touchscreen_swipe_right_title">右スワイプ</string>
+    <string name="touchscreen_swipe_down_title">下スワイプ</string>
+    <string name="touchscreen_swipe_left_title">左スワイプ</string>
     <!-- User-aware display -->
-    <string name="user_aware_display_title">User-aware display</string>
-    <string name="user_aware_display_summary">Keep the screen on while a user is in front of the display</string>
+    <string name="user_aware_display_title">人の検知で画面点灯維持</string>
+    <string name="user_aware_display_summary">ユーザーが画面の前にいる間は画面点灯を維持する</string>
     <!-- Ambient Display -->
-    <string name="ambient_display_title">Ambient display</string>
-    <string name="ambient_display_enable_title">Use ambient display</string>
-    <string name="ambient_display_enable_summary">Wake screen when you receive notifications</string>
-    <string name="ambient_display_gestures_title">Ambient display gestures</string>
-    <string name="ambient_display_gestures_summary">Additional gestures to wake the screen</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
-    <string name="ambient_display_summary_on">Screen will wake when you receive notifications</string>
-    <string name="ambient_display_summary_off">Screen will not wake when you receive notifications</string>
-    <string name="ambient_display_always_on_title">Always on</string>
-    <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
+    <string name="ambient_display_title">アンビエント画面</string>
+    <string name="ambient_display_enable_title">アンビエント画面を使用</string>
+    <string name="ambient_display_enable_summary">通知を受け取ったら画面を復帰させる</string>
+    <string name="ambient_display_gestures_title">アンビエント画面のジェスチャー</string>
+    <string name="ambient_display_gestures_summary">画面を復帰させる追加のジェスチャー</string>
+    <string name="ambient_display_summary">通知を受け取ったら画面を復帰させる</string>
+    <string name="ambient_display_summary_on">通知を受け取ったら画面は復帰します</string>
+    <string name="ambient_display_summary_off">通知を受け取っても画面は復帰しません</string>
+    <string name="ambient_display_always_on_title">Always On</string>
+    <string name="ambient_display_always_on_summary">時刻、通知アイコン、その他の情報を表示します。バッテリー使用量が増加します。</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
+    <string name="tilt_sensor_title">傾きセンサー</string>
     <!-- Pickup sensor -->
-    <string name="pickup_sensor_title">Pickup sensor</string>
+    <string name="pickup_sensor_title">持ち上げセンサー</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
+    <string name="proximity_sensor_title">近接センサー</string>
     <!-- Hand wave gesture -->
-    <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="hand_wave_gesture_flat_title">Detect orientation</string>
-    <string name="hand_wave_gesture_flat_summary">Pulse only if the phone is lying face up on a flat surface</string>
+    <string name="hand_wave_gesture_title">手を振る</string>
+    <string name="hand_wave_gesture_summary">手を振って通知を点滅させる</string>
+    <string name="hand_wave_gesture_flat_title">回転の検出</string>
+    <string name="hand_wave_gesture_flat_summary">端末が水平面に置かれている場合のみ点滅させる</string>
     <!-- Pick-up gesture -->
-    <string name="pick_up_gesture_title">Pick-up</string>
-    <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
-    <string name="pick_up_wake_gesture_summary">Wake device on pick-up</string>
+    <string name="pick_up_gesture_title">持ち上げ</string>
+    <string name="pick_up_gesture_summary">持ち上げて通知を点滅させる</string>
+    <string name="pick_up_wake_gesture_summary">持ち上げて端末を復帰させる</string>
     <!-- Pocket gesture -->
-    <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+    <string name="pocket_gesture_title">ポケット</string>
+    <string name="pocket_gesture_summary">ポケットから出したら通知を点滅させる</string>
     <!-- Proximity wake -->
-    <string name="proximity_wake_title">Proximity wake</string>
-    <string name="proximity_wake_enable_title">Proximity wake</string>
-    <string name="proximity_wake_enable_summary">Wake device on hand wave</string>
+    <string name="proximity_wake_title">近接センサー復帰</string>
+    <string name="proximity_wake_enable_title">近接センサー復帰</string>
+    <string name="proximity_wake_enable_summary">手を振って端末を復帰させる</string>
     <!-- Device actions -->
-    <string name="actions_title">Actions</string>
+    <string name="actions_title">アクション</string>
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">Double-twist</string>
-    <string name="camera_gesture_summary">Open camera when using the double twist gesture</string>
+    <string name="camera_gesture_title">2回ひねり</string>
+    <string name="camera_gesture_summary">2回ひねりのジェスチャーでカメラを開く</string>
     <!-- Chop-chop gesture -->
-    <string name="chop_chop_gesture_title">Chop-chop</string>
-    <string name="chop_chop_gesture_summary">Toggle flashlight when using the chop-chop gesture</string>
+    <string name="chop_chop_gesture_title">2回振り下ろし</string>
+    <string name="chop_chop_gesture_summary">2回縦に振り下ろしてフラッシュライトを点ける</string>
     <!-- Hand wave silencer gesture -->
-    <string name="hand_wave_silencer_title">Wave to silence</string>
-    <string name="hand_wave_silencer_summary">Silence incoming calls by waving your hand across the screen</string>
+    <string name="hand_wave_silencer_title">撫でてサイレント</string>
+    <string name="hand_wave_silencer_summary">画面のすぐ上を手の平が通過したら着信をサイレントにする</string>
     <!-- Flip to mute gesture -->
-    <string name="flip_to_mute_title">Flip for Do Not Disturb</string>
-    <string name="flip_to_mute_summary">Place the phone face down to silence notifications and calls</string>
+    <string name="flip_to_mute_title">裏返して Do Not Disturb</string>
+    <string name="flip_to_mute_summary">端末の画面を下において通知や着信をサイレントにする</string>
     <!-- Do Not Disturb access -->
-    <string name="dnd_access">Please, give Do Not Disturb access to CMActions in order to use this feature.</string>
+    <string name="dnd_access">機能を使用するには Do Not Disturb のアクセス権限を CMActions に与えて下さい</string>
     <!-- Lift to silence gesture -->
-    <string name="lift_to_silence_title">Pick up to stop ringing</string>
-    <string name="lift_to_silence_summary">Lift the phone to silence incoming calls. It only works when your phone starts flat</string>
+    <string name="lift_to_silence_title">持ち上げて着信停止</string>
+    <string name="lift_to_silence_summary">端末を持ち上げて着信をサイレントにします。最初に端末が水平な場合のみ機能します。</string>
     <!-- Action toggles -->
-    <string name="action_none">Disable</string>
-    <string name="action_launch_camera">Launch camera</string>
-    <string name="action_torch">Toggle torch</string>
+    <string name="action_none">無効</string>
+    <string name="action_launch_camera">カメラを起動</string>
+    <string name="action_torch">トーチの切り替え</string>
     <!-- Feedback intensity -->
-    <string name="feedback_intensity_title">Haptic feedback intensity</string>
-    <string name="feedback_intensity_summary">Strength of the haptic feedback for the double-twist and chop-chop actions</string>
-    <string name="feedback_intensity_none">Disabled</string>
-    <string name="feedback_intensity_low">Low</string>
-    <string name="feedback_intensity_medium">Medium</string>
-    <string name="feedback_intensity_high">High</string>
+    <string name="feedback_intensity_title">振動フィードバックの強さ</string>
+    <string name="feedback_intensity_summary">2回ひねりと2回振り下ろしアクションでの振動の強さを調整する</string>
+    <string name="feedback_intensity_none">無効</string>
+    <string name="feedback_intensity_low">弱</string>
+    <string name="feedback_intensity_medium">中</string>
+    <string name="feedback_intensity_high">強</string>
     <!-- Dialog texts -->
     <string name="dialog_ok">OK</string>
     <!-- Generic texts -->
-    <string name="disabled">Disabled</string>
+    <string name="disabled">無効</string>
     <!-- Help texts -->
-    <string name="doze_settings_help_title">Help</string>
-    <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
+    <string name="doze_settings_help_title">ヘルプ</string>
+    <string name="doze_settings_help_text">これらの機能は、Doze 通知の点滅表示を起動するためにセンサーイベントを使用します。電池の使用量を削減するために、端末が通知を受信した時にのみ選択したセンサーが有効になります。画面を消灯した直後から選択したセンサーを有効にするオプションもありますが、電池の使用量が多くなります。</string>
     <!-- Button settings -->
-    <string name="button_panel_title">Additional buttons</string>
-    <string name="button_swap_title">Swap buttons</string>
-    <string name="button_swap_summary">Swap the order of recents and back buttons</string>
+    <string name="button_panel_title">追加のボタン</string>
+    <string name="button_swap_title">ボタンの入れ替え</string>
+    <string name="button_swap_summary">アプリ履歴と戻るを入れ替える</string>
     <!-- Fingerprint -->
-    <string name="fingerprint_title">Fingerprint</string>
-    <string name="fingerprint_as_home_title">Fingerprint as home</string>
-    <string name="fingerprint_as_home_summary">Use the fingerprint sensor as a home button</string>
-    <string name="fingerprint_wakeup_title">Fingerprint wake-up</string>
-    <string name="fingerprint_wakeup_summary">Allow the fingerprint sensor to wake the device while the screen is off</string>
-    <string name="fingerprint_pocketmode_title">Prevent accidental wake-up</string>
-    <string name="fingerprint_pocketmode_summary">Check the proximity sensor prior to wake-ups triggered by the fingerprint sensor</string>
-    <string name="fingerprint_sleep_title">Fingerprint sleep</string>
-    <string name="fingerprint_sleep_summary">Press the fingerprint sensor to turn off the screen</string>
+    <string name="fingerprint_title">指紋</string>
+    <string name="fingerprint_as_home_title">指紋センサーでホーム</string>
+    <string name="fingerprint_as_home_summary">ホームボタンとして指紋センサーを使う</string>
+    <string name="fingerprint_wakeup_title">指紋で復帰</string>
+    <string name="fingerprint_wakeup_summary">画面消灯時に指紋センサーでの端末の復帰を許可する</string>
+    <string name="fingerprint_pocketmode_title">誤復帰の回避</string>
+    <string name="fingerprint_pocketmode_summary">指紋センサーで復帰する前に近接センサーを確認する</string>
+    <string name="fingerprint_sleep_title">指紋でスリープ</string>
+    <string name="fingerprint_sleep_summary">指紋センサーで画面を消灯させる</string>
     <!-- High touch sensitivity -->
-    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
-    <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
+    <string name="high_touch_sensitivity_title">高感度タッチ</string>
+    <string name="high_touch_sensitivity_summary">タッチセンサーの感度を上げることで手袋装着時などに有効です</string>
     <!-- Quick charge toggle -->
-    <string name="quick_charge_title">Quick charge</string>
-    <string name="quick_charge_summary">Toggle quick charge. Unplug and replug the charger after changing this setting</string>
+    <string name="quick_charge_title">急速充電</string>
+    <string name="quick_charge_summary">急速充電を切り替えます。設定変更後は充電器を抜き差しして下さい。</string>
     <!-- Camera focus fix toggle -->
-    <string name="camera_focus_fix_title">Camera focus fix</string>
-    <string name="camera_focus_fix_summary">Enable if you have issues with the camera not focusing</string>
+    <string name="camera_focus_fix_title">カメラフォーカスの修正</string>
+    <string name="camera_focus_fix_summary">カメラのフォーカスに問題がある場合は有効にして下さい</string>
     <!-- Wake on gesture -->
-    <string name="wake_on_gesture_title">Wake up on gestures</string>
-    <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+    <string name="wake_on_gesture_title">ジェスチャーで復帰</string>
+    <string name="wake_on_gesture_summary">ジェスチャーイベントで通知を点滅させる代わりに端末を復帰させる</string>
     <!-- Alert Slider -->
     <string name="slider_title">Alert Slider</string>
-    <string name="mute_media_title">Mute media volume</string>
-    <string name="mute_media_summary">Turn off media volume when the alert slider is set to silent</string>
-    <string name="mute_media_warning">This will only take effect for speaker</string>
+    <string name="mute_media_title">メディア音量を無音化</string>
+    <string name="mute_media_summary">Alert Slider がサイレントに設定されたらメディア音量を消す</string>
+    <string name="mute_media_warning">スピーカーにのみ動作します</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">値: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">既定</string>
+    <string name="custom_seekbar_default_value_to_set">既定値: <xliff:g id="v">%s</xliff:g>\n長押しで設定</string>
+    <string name="custom_seekbar_default_value_is_set">規定値が設定されます</string>
     <!-- Device Settings -->
-    <string name="device_title">OnePlus Settings</string>
-    <string name="device_summary">Adjust OnePlus specific device settings</string>
+    <string name="device_title">OnePlus 設定</string>
+    <string name="device_summary">OnePlus 特別の端末の設定を調整する</string>
     <!-- Display Modes -->
-    <string name="display_title">Display Modes</string>
-    <string name="hbm_mode_summary">Instantly enable the peak luminance of the display</string>
-    <string name="hbm_mode_title">High brightness</string>
-    <string name="auto_hbm_summary">Enable peak luminance based on sunlight</string>
-    <string name="auto_hbm_title">Automatic High brightness</string>
-    <string name="auto_hbm_threshold_title">Automatic High brightness threshold (lux)</string>
-    <string name="auto_hbm_threshold_summary">Adjust peak luminance of the display </string>
-    <string name="tile_hbm_mode">High brightness</string>
-    <string name="dc_mode_summary">Dim backlight by adjusting DC current drawn to the display</string>
-    <string name="dc_mode_title">DC Dimming</string>
+    <string name="display_title">ディスプレイモード</string>
+    <string name="hbm_mode_summary">瞬時に画面の最大の明るさを有効にする</string>
+    <string name="hbm_mode_title">高輝度</string>
+    <string name="auto_hbm_summary">日光に基づいて最大の耀あを有効にする</string>
+    <string name="auto_hbm_title">自動の高輝度</string>
+    <string name="auto_hbm_threshold_title">自動の高輝度のしきい値 (lux)</string>
+    <string name="auto_hbm_threshold_summary">画面の最大の明るさを調整する</string>
+    <string name="tile_hbm_mode">高輝度</string>
+    <string name="dc_mode_summary">画面に流れる直流電流を調整してバックライトを暗くする</string>
+    <string name="dc_mode_title">DC 調光</string>
     <!-- Dolby -->
     <string name="dolby_category">Dolby</string>
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Configure the audio output based on media content</string>
+    <string name="dolby_summary">メディアの内容に基づいてオーディオ出力を編集する</string>
     <!-- Doze -->
     <string name="doze_panel_title">Doze</string>
     <!-- FPS Info -->
-    <string name="fps_title">FPS Info</string>
-    <string name="fps_info_title">FPS Overlay</string>
-    <string name="fps_info_summary">Show overlay with current frames per second</string>
-    <string name="fps_info_color_title">Text Color</string>
-    <string name="fps_info_color_green">Green</string>
-    <string name="fps_info_color_red">Red</string>
-    <string name="fps_info_color_blue">Blue</string>
-    <string name="fps_info_color_yellow">Yellow</string>
-    <string name="fps_info_color_black">Black</string>
-    <string name="fps_info_color_accent">Follow System</string>
-    <string name="fps_info_position_title">Overlay Position</string>
-    <string name="fps_info_position_top_left">Top left</string>
-    <string name="fps_info_position_top_center">Top center</string>
-    <string name="fps_info_position_top_right">Top right</string>
-    <string name="fps_info_position_bottom_left">Bottom left</string>
-    <string name="fps_info_position_bottom_center">Bottom center</string>
-    <string name="fps_info_position_bottom_right">Bottom right</string>
-    <string name="fps_info_text_size_title">Text Size</string>
+    <string name="fps_title">FPS 情報</string>
+    <string name="fps_info_title">FPS オーバーレイ</string>
+    <string name="fps_info_summary">現在の FPS をオーバーレイ表示する</string>
+    <string name="fps_info_color_title">文字の色</string>
+    <string name="fps_info_color_green">緑</string>
+    <string name="fps_info_color_red">赤</string>
+    <string name="fps_info_color_blue">青</string>
+    <string name="fps_info_color_yellow">黄</string>
+    <string name="fps_info_color_black">黒</string>
+    <string name="fps_info_color_accent">システムに従う</string>
+    <string name="fps_info_position_title">オーバーレイの位置</string>
+    <string name="fps_info_position_top_left">左上</string>
+    <string name="fps_info_position_top_center">中央上</string>
+    <string name="fps_info_position_top_right">右上</string>
+    <string name="fps_info_position_bottom_left">左下</string>
+    <string name="fps_info_position_bottom_center">中央下</string>
+    <string name="fps_info_position_bottom_right">右下</string>
+    <string name="fps_info_text_size_title">文字のサイズ</string>
     <!-- Network -->
-    <string name="network_title">Network</string>
-    <string name="nr_mode_switcher_title">5G Modes Switcher</string>
-    <string name="nsa_only">NSA Only</string>
-    <string name="sa_only">SA Only</string>
+    <string name="network_title">ネットワーク</string>
+    <string name="nr_mode_switcher_title">5G モードの切り替え</string>
+    <string name="nsa_only">NSA のみ</string>
+    <string name="sa_only">SA のみ</string>
     <string name="nsa_sa">NSA + SA</string>
-    <string name="nr_mode_switcher_warning">Please set again after reboot/changed data sim card</string>
-    <string name="service_not_ready">Service not ready, please try again</string>
-    <string name="unavailable_sim_slot">Unable to get current mobile data slot, please try again</string>
+    <string name="nr_mode_switcher_warning">再起動/データ SIM を変更した後は再設定して下さい</string>
+    <string name="service_not_ready">サービスの準備が出来ていません。再度お試し下さい。</string>
+    <string name="unavailable_sim_slot">現在のモバイルデータスロットを取得できません。再度お試し下さい。</string>
     <!-- Touchpanel -->
-    <string name="touchpanel_title">Touchpanel</string>
-    <string name="game_mode_title">High touch sample</string>
-    <string name="game_mode_summary">Boost touch sampling rate for all applications</string>
-    <string name="game_mode_warning">Increases power consumption</string>
-    <string name="edge_touch_title">Unlimit edge touch</string>
-    <string name="edge_touch_summary">Improve multi-touch experience in games</string>
-    <string name="edge_touch_warning">Increases possibility of accidental touch</string>
+    <string name="touchpanel_title">タッチパネル</string>
+    <string name="game_mode_title">タッチサンプリングレート</string>
+    <string name="game_mode_summary">全てのアプリに対してタッチサンプリングレートを増加させる</string>
+    <string name="game_mode_warning">消費電力が上昇します</string>
+    <string name="edge_touch_title">画面の縁のタッチの有効化</string>
+    <string name="edge_touch_summary">ゲームでのマルチタッチ体験を向上させる</string>
+    <string name="edge_touch_warning">誤タッチの頻度が上昇する可能性があります</string>
     <!-- Unsupported feature -->
-    <string name="unsupported_feature">This feature is unavailable on current kernel</string>
+    <string name="unsupported_feature">この機能は現在のカーネルでは使用できません</string>
     <!-- Vibration Strength -->
-    <string name="category_vibrator">Vibrator</string>
-    <string name="vib_strength_title_head">Strength</string>
-    <string name="vib_strength_summary_head">Define the strength of the vibration motor</string>
+    <string name="category_vibrator">振動</string>
+    <string name="vib_strength_title_head">強さ</string>
+    <string name="vib_strength_summary_head">バイブレーターの強さを決定する</string>
 </resources>
