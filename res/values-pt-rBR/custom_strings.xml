@@ -82,7 +82,7 @@
     <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Pegar</string>
     <string name="pick_up_gesture_summary">Mostrar as notificações ao pegar no dispositivo</string>
-    <string name="pick_up_wake_gesture_summary">Wake device on pick-up</string>
+    <string name="pick_up_wake_gesture_summary">Despertar celular ao pegá-lo</string>
     <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Bolso</string>
     <string name="pocket_gesture_summary">Pulsar notificações após remover do bolso</string>
@@ -121,7 +121,7 @@
     <string name="feedback_intensity_medium">Média</string>
     <string name="feedback_intensity_high">Alta</string>
     <!-- Dialog texts -->
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">Ok</string>
     <!-- Generic texts -->
     <string name="disabled">Desativado</string>
     <!-- Help texts -->
@@ -151,78 +151,78 @@
     <string name="camera_focus_fix_title">Travar foco da câmera</string>
     <string name="camera_focus_fix_summary">Ative se você tiver problemas com o foco da câmera</string>
     <!-- Wake on gesture -->
-    <string name="wake_on_gesture_title">Wake up on gestures</string>
-    <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+    <string name="wake_on_gesture_title">Despertar ao realizar gestos</string>
+    <string name="wake_on_gesture_summary">Despertar o celular em vez de pulsar as notificações com os gestos</string>
     <!-- Alert Slider -->
-    <string name="slider_title">Alert Slider</string>
-    <string name="mute_media_title">Mute media volume</string>
-    <string name="mute_media_summary">Turn off media volume when the alert slider is set to silent</string>
-    <string name="mute_media_warning">This will only take effect for speaker</string>
+    <string name="slider_title">Slider de Som</string>
+    <string name="mute_media_title">Deixar o volume da mídia mudo</string>
+    <string name="mute_media_summary">Desativar volume da mídia quando o slider estiver no modo silencioso</string>
+    <string name="mute_media_warning">Isso apenas terá efeito para os altifalantes</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">Padrão</string>
+    <string name="custom_seekbar_default_value_to_set">Valor padrão: <xliff:g id="v">%s</xliff:g>\nSegure para definir</string>
+    <string name="custom_seekbar_default_value_is_set">Valor padrão definido</string>
     <!-- Device Settings -->
-    <string name="device_title">OnePlus Settings</string>
-    <string name="device_summary">Adjust OnePlus specific device settings</string>
+    <string name="device_title">Configurações da OnePlus</string>
+    <string name="device_summary">Configurações específicas da fabricante</string>
     <!-- Display Modes -->
-    <string name="display_title">Display Modes</string>
-    <string name="hbm_mode_summary">Instantly enable the peak luminance of the display</string>
-    <string name="hbm_mode_title">High brightness</string>
-    <string name="auto_hbm_summary">Enable peak luminance based on sunlight</string>
-    <string name="auto_hbm_title">Automatic High brightness</string>
-    <string name="auto_hbm_threshold_title">Automatic High brightness threshold (lux)</string>
-    <string name="auto_hbm_threshold_summary">Adjust peak luminance of the display </string>
-    <string name="tile_hbm_mode">High brightness</string>
-    <string name="dc_mode_summary">Dim backlight by adjusting DC current drawn to the display</string>
-    <string name="dc_mode_title">DC Dimming</string>
+    <string name="display_title">Modos de tela</string>
+    <string name="hbm_mode_summary">Ativar instantaneamente o pico do nível iluminação da tela</string>
+    <string name="hbm_mode_title">Alto brilho</string>
+    <string name="auto_hbm_summary">Ativar pico de brilho da tela baseado na luz do sol</string>
+    <string name="auto_hbm_title">Alto brilho automático</string>
+    <string name="auto_hbm_threshold_title">Limite de alto brilho automático (lux)</string>
+    <string name="auto_hbm_threshold_summary">Ajustar a luminância de pico da tela </string>
+    <string name="tile_hbm_mode">Alto brilho</string>
+    <string name="dc_mode_summary">Reduzir o brilho mínimo ajustando a corrente de alimentação da tela</string>
+    <string name="dc_mode_title">Escurecimento por diminuição de corrente</string>
     <!-- Dolby -->
     <string name="dolby_category">Dolby</string>
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Configure the audio output based on media content</string>
+    <string name="dolby_summary">Configurar saída de áudio baseada no conteúdo</string>
     <!-- Doze -->
     <string name="doze_panel_title">Doze</string>
     <!-- FPS Info -->
-    <string name="fps_title">FPS Info</string>
-    <string name="fps_info_title">FPS Overlay</string>
-    <string name="fps_info_summary">Show overlay with current frames per second</string>
-    <string name="fps_info_color_title">Text Color</string>
-    <string name="fps_info_color_green">Green</string>
-    <string name="fps_info_color_red">Red</string>
-    <string name="fps_info_color_blue">Blue</string>
-    <string name="fps_info_color_yellow">Yellow</string>
-    <string name="fps_info_color_black">Black</string>
-    <string name="fps_info_color_accent">Follow System</string>
-    <string name="fps_info_position_title">Overlay Position</string>
-    <string name="fps_info_position_top_left">Top left</string>
-    <string name="fps_info_position_top_center">Top center</string>
-    <string name="fps_info_position_top_right">Top right</string>
-    <string name="fps_info_position_bottom_left">Bottom left</string>
-    <string name="fps_info_position_bottom_center">Bottom center</string>
-    <string name="fps_info_position_bottom_right">Bottom right</string>
-    <string name="fps_info_text_size_title">Text Size</string>
+    <string name="fps_title">Informação de FPS</string>
+    <string name="fps_info_title">Ícone de FPS</string>
+    <string name="fps_info_summary">Mostrar ícone flutuante com o FPS atual</string>
+    <string name="fps_info_color_title">Cor do texto</string>
+    <string name="fps_info_color_green">Verde</string>
+    <string name="fps_info_color_red">Vermelho</string>
+    <string name="fps_info_color_blue">Azul</string>
+    <string name="fps_info_color_yellow">Amarelo</string>
+    <string name="fps_info_color_black">Preto</string>
+    <string name="fps_info_color_accent">Seguir sistema</string>
+    <string name="fps_info_position_title">Posição do ícone</string>
+    <string name="fps_info_position_top_left">Topo da esquerda</string>
+    <string name="fps_info_position_top_center">Topo do centro</string>
+    <string name="fps_info_position_top_right">Topo da direita</string>
+    <string name="fps_info_position_bottom_left">Parte inferior esquerda</string>
+    <string name="fps_info_position_bottom_center">Parte inferior central</string>
+    <string name="fps_info_position_bottom_right">Parte inferior direita</string>
+    <string name="fps_info_text_size_title">Tamanho do Texto</string>
     <!-- Network -->
-    <string name="network_title">Network</string>
-    <string name="nr_mode_switcher_title">5G Modes Switcher</string>
-    <string name="nsa_only">NSA Only</string>
-    <string name="sa_only">SA Only</string>
+    <string name="network_title">Rede</string>
+    <string name="nr_mode_switcher_title">Modos de 5G</string>
+    <string name="nsa_only">Apenas NSA</string>
+    <string name="sa_only">Apenas SA</string>
     <string name="nsa_sa">NSA + SA</string>
-    <string name="nr_mode_switcher_warning">Please set again after reboot/changed data sim card</string>
-    <string name="service_not_ready">Service not ready, please try again</string>
-    <string name="unavailable_sim_slot">Unable to get current mobile data slot, please try again</string>
+    <string name="nr_mode_switcher_warning">Por favor, definir novamente após reiniciar / trocar de SIM</string>
+    <string name="service_not_ready">O serviço não está pronto, tente novamente</string>
+    <string name="unavailable_sim_slot">Não foi possível definir o slot responsável pelos dados, tente novamente</string>
     <!-- Touchpanel -->
-    <string name="touchpanel_title">Touchpanel</string>
-    <string name="game_mode_title">High touch sample</string>
-    <string name="game_mode_summary">Boost touch sampling rate for all applications</string>
-    <string name="game_mode_warning">Increases power consumption</string>
-    <string name="edge_touch_title">Unlimit edge touch</string>
-    <string name="edge_touch_summary">Improve multi-touch experience in games</string>
-    <string name="edge_touch_warning">Increases possibility of accidental touch</string>
+    <string name="touchpanel_title">Painel de toque</string>
+    <string name="game_mode_title">Alta taxa de amostragem de toque</string>
+    <string name="game_mode_summary">Aumentar taxa de amostragem de toque para todos os aplicativos</string>
+    <string name="game_mode_warning">Aumenta o consumo de bateria</string>
+    <string name="edge_touch_title">Remover limite da tela edge</string>
+    <string name="edge_touch_summary">Experiência de multitoque aprimorada nos jogos</string>
+    <string name="edge_touch_warning">Aumenta a possibilidade de toques acidentais</string>
     <!-- Unsupported feature -->
-    <string name="unsupported_feature">This feature is unavailable on current kernel</string>
+    <string name="unsupported_feature">O recurso está indisponível no kernel atual</string>
     <!-- Vibration Strength -->
-    <string name="category_vibrator">Vibrator</string>
-    <string name="vib_strength_title_head">Strength</string>
-    <string name="vib_strength_summary_head">Define the strength of the vibration motor</string>
+    <string name="category_vibrator">Vibração</string>
+    <string name="vib_strength_title_head">Força</string>
+    <string name="vib_strength_summary_head">Define a força do motor de vibração</string>
 </resources>
