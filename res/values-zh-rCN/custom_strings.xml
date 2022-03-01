@@ -23,7 +23,7 @@
     <string name="screen_gestures_panel_title">手势</string>
     <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">附加功能</string>
-    <string name="touchscreen_gesture_haptic_feedback">触觉反馈</string>
+    <string name="touchscreen_gesture_haptic_feedback">触感反馈</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">检测到一个触摸屏手势时振动</string>
     <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">触摸屏手势</string>
