@@ -18,211 +18,211 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Advanced settings</string>
+    <string name="device_settings_app_name">Gelişmiş Ayarlar</string>
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">Gestures</string>
+    <string name="screen_gestures_panel_title">Mimik</string>
     <!-- Touchscreen gesture haptic feedback -->
-    <string name="touchscreen_gesture_extras">Extras</string>
-    <string name="touchscreen_gesture_haptic_feedback">Haptic feedback</string>
-    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a touchscreen gesture is detected</string>
+    <string name="touchscreen_gesture_extras">Ekstralar</string>
+    <string name="touchscreen_gesture_haptic_feedback">Dokunsal geribildirim</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Dokunmatik ekran hareketi algılandığında titret</string>
     <!-- Touchscreen gestures -->
-    <string name="touchscreen_gesture_settings_title">Touchscreen gestures</string>
-    <string name="touchscreen_gesture_settings_summary">Perform various touchscreen gestures for quick actions</string>
-    <string name="gesture_display_title">Screen off gestures</string>
-    <string name="touchscreen_c_gesture_title">Camera</string>
-    <string name="touchscreen_c_gesture_summary">Draw a \"C\" to activate camera</string>
-    <string name="touchscreen_e_gesture_title">Email</string>
-    <string name="touchscreen_e_gesture_summary">Draw an \"e\" to open the email app</string>
-    <string name="touchscreen_m_gesture_title">Messaging</string>
-    <string name="touchscreen_m_gesture_summary">Draw a \"M\" to open the messaging app</string>
-    <string name="touchscreen_s_gesture_title">Messaging</string>
-    <string name="touchscreen_s_gesture_summary">Draw an \"S\" to open the messaging app</string>
-    <string name="touchscreen_v_gesture_title">Dialer</string>
-    <string name="touchscreen_v_gesture_summary">Draw a \"V\" to open the dialer app</string>
-    <string name="touchscreen_w_gesture_title">Browser</string>
-    <string name="touchscreen_w_gesture_summary">Draw a \"W\" to open the browser app</string>
-    <string name="touchscreen_z_gesture_title">Flashlight</string>
-    <string name="touchscreen_z_gesture_summary">Draw a \"Z\" to toggle flashlight</string>
-    <string name="touchscreen_flashlight_gesture_title">Flashlight</string>
-    <string name="touchscreen_flashlight_gesture_summary">Draw a circle to toggle flashlight</string>
-    <string name="touchscreen_music_gesture_title">Music</string>
-    <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
-    • Swipe down to play/pause\n
-    • Swipe left for previous track\n
-    • Swipe right for next track</string>
-    <string name="touchscreen_swipe_up_title">Swipe up</string>
-    <string name="touchscreen_swipe_right_title">Swipe right</string>
-    <string name="touchscreen_swipe_down_title">Swipe down</string>
-    <string name="touchscreen_swipe_left_title">Swipe left</string>
+    <string name="touchscreen_gesture_settings_title">Dokunmatik ekran hareketleri</string>
+    <string name="touchscreen_gesture_settings_summary">Hızlı işlemler için çeşitli dokunmatik ekran hareketleri gerçekleştirin</string>
+    <string name="gesture_display_title">Ekran kapatma hareketleri</string>
+    <string name="touchscreen_c_gesture_title">Kamera</string>
+    <string name="touchscreen_c_gesture_summary">Kamerayı etkinleştirmek için bir \"C\" çizin</string>
+    <string name="touchscreen_e_gesture_title">E-posta</string>
+    <string name="touchscreen_e_gesture_summary">E-posta uygulamasını açmak için bir \"e\" çizin</string>
+    <string name="touchscreen_m_gesture_title">Mesajlaşma</string>
+    <string name="touchscreen_m_gesture_summary">Mesajlaşma uygulamasını açmak için bir \"M\" çizin</string>
+    <string name="touchscreen_s_gesture_title">Mesajlaşma</string>
+    <string name="touchscreen_s_gesture_summary">Mesajlaşma uygulamasını açmak için bir \"S\" çizin</string>
+    <string name="touchscreen_v_gesture_title">Çevirici</string>
+    <string name="touchscreen_v_gesture_summary">Çevirici uygulamasını açmak için bir \"V\" çizin</string>
+    <string name="touchscreen_w_gesture_title">Tarayıcı</string>
+    <string name="touchscreen_w_gesture_summary">Tarayıcı uygulamasını açmak için bir \"W\" çizin</string>
+    <string name="touchscreen_z_gesture_title">El feneri</string>
+    <string name="touchscreen_z_gesture_summary">El fenerini değiştirmek için bir \"Z\" çizin</string>
+    <string name="touchscreen_flashlight_gesture_title">El feneri</string>
+    <string name="touchscreen_flashlight_gesture_summary">El fenerini değiştirmek için bir daire çizin</string>
+    <string name="touchscreen_music_gesture_title">Müzik</string>
+    <string name="touchscreen_music_gesture_summary">Müzik çalmayı kontrol etmek için hareketleri kullanın \n
+     • Oynatmak/duraklatmak için aşağı kaydırın\n
+     • Önceki parça için sola kaydırın\n
+     • Sonraki parça için sağa kaydırın</string>
+    <string name="touchscreen_swipe_up_title">Yukarı kaydırın</string>
+    <string name="touchscreen_swipe_right_title">Sağa kaydır</string>
+    <string name="touchscreen_swipe_down_title">Aşagı kaydır</string>
+    <string name="touchscreen_swipe_left_title">Sola sürükle</string>
     <!-- User-aware display -->
-    <string name="user_aware_display_title">User-aware display</string>
-    <string name="user_aware_display_summary">Keep the screen on while a user is in front of the display</string>
+    <string name="user_aware_display_title">Kullanıcıya duyarlı ekran</string>
+    <string name="user_aware_display_summary">Bir kullanıcı ekranın önündeyken ekranı açık tutun</string>
     <!-- Ambient Display -->
-    <string name="ambient_display_title">Ambient display</string>
-    <string name="ambient_display_enable_title">Use ambient display</string>
-    <string name="ambient_display_enable_summary">Wake screen when you receive notifications</string>
-    <string name="ambient_display_gestures_title">Ambient display gestures</string>
-    <string name="ambient_display_gestures_summary">Additional gestures to wake the screen</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
-    <string name="ambient_display_summary_on">Screen will wake when you receive notifications</string>
-    <string name="ambient_display_summary_off">Screen will not wake when you receive notifications</string>
-    <string name="ambient_display_always_on_title">Always on</string>
-    <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
+    <string name="ambient_display_title">Ortam ekranı</string>
+    <string name="ambient_display_enable_title">Ortam ekranını kullan</string>
+    <string name="ambient_display_enable_summary">Bildirim aldığınızda ekranı uyandır</string>
+    <string name="ambient_display_gestures_title">Ortam görüntüleme hareketleri</string>
+    <string name="ambient_display_gestures_summary">Ekranı uyandırmak için ek hareketler</string>
+    <string name="ambient_display_summary">Bildirim aldığınızda ekranı uyandır</string>
+    <string name="ambient_display_summary_on">Bildirim aldığınızda ekran uyanacak</string>
+    <string name="ambient_display_summary_off">Bildirim aldığınızda ekran uyanmayacak</string>
+    <string name="ambient_display_always_on_title">Her zaman</string>
+    <string name="ambient_display_always_on_summary">Saati, bildirim simgelerini ve diğer bilgileri göster. Artan pil kullanımı.</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
+    <string name="tilt_sensor_title">Eğim sensörü</string>
     <!-- Pickup sensor -->
-    <string name="pickup_sensor_title">Pickup sensor</string>
+    <string name="pickup_sensor_title">Alma sensörü</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
+    <string name="proximity_sensor_title">Yakınlık sensörü</string>
     <!-- Hand wave gesture -->
-    <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="hand_wave_gesture_flat_title">Detect orientation</string>
-    <string name="hand_wave_gesture_flat_summary">Pulse only if the phone is lying face up on a flat surface</string>
+    <string name="hand_wave_gesture_title">El dalgası</string>
+    <string name="hand_wave_gesture_summary">El dalgasında darbe bildirimleri</string>
+    <string name="hand_wave_gesture_flat_title">Yönü algıla</string>
+    <string name="hand_wave_gesture_flat_summary">Yalnızca telefon düz bir yüzeyde yüz yukarı duruyorsa nabız atın</string>
     <!-- Pick-up gesture -->
-    <string name="pick_up_gesture_title">Pick-up</string>
-    <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
-    <string name="pick_up_wake_gesture_summary">Wake device on pick-up</string>
+    <string name="pick_up_gesture_title">Toplamak</string>
+    <string name="pick_up_gesture_summary">Teslim alırken nabız bildirimleri</string>
+    <string name="pick_up_wake_gesture_summary">Alma sırasında cihazı uyandır</string>
     <!-- Pocket gesture -->
-    <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+    <string name="pocket_gesture_title">Cep</string>
+    <string name="pocket_gesture_summary">Cepten çıkarıldığında darbe bildirimleri</string>
     <!-- Proximity wake -->
-    <string name="proximity_wake_title">Proximity wake</string>
-    <string name="proximity_wake_enable_title">Proximity wake</string>
-    <string name="proximity_wake_enable_summary">Wake device on hand wave</string>
+    <string name="proximity_wake_title">Yakınlık uyandırma</string>
+    <string name="proximity_wake_enable_title">Yakınlık uyandırma</string>
+    <string name="proximity_wake_enable_summary">El dalgasında cihazı uyandır</string>
     <!-- Device actions -->
-    <string name="actions_title">Actions</string>
+    <string name="actions_title">Hareketler</string>
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">Double-twist</string>
-    <string name="camera_gesture_summary">Open camera when using the double twist gesture</string>
+    <string name="camera_gesture_title">Çift ​​büküm</string>
+    <string name="camera_gesture_summary">Çift çevirme hareketini kullanırken kamerayı açın</string>
     <!-- Chop-chop gesture -->
-    <string name="chop_chop_gesture_title">Chop-chop</string>
-    <string name="chop_chop_gesture_summary">Toggle flashlight when using the chop-chop gesture</string>
+    <string name="chop_chop_gesture_title">Pirzola</string>
+    <string name="chop_chop_gesture_summary">Doğrama hareketini kullanırken el fenerini aç/kapat</string>
     <!-- Hand wave silencer gesture -->
-    <string name="hand_wave_silencer_title">Wave to silence</string>
-    <string name="hand_wave_silencer_summary">Silence incoming calls by waving your hand across the screen</string>
+    <string name="hand_wave_silencer_title">Sessizliğe el salla</string>
+    <string name="hand_wave_silencer_summary">Elinizi ekranda sallayarak gelen aramaları susturun</string>
     <!-- Flip to mute gesture -->
-    <string name="flip_to_mute_title">Flip for Do Not Disturb</string>
-    <string name="flip_to_mute_summary">Place the phone face down to silence notifications and calls</string>
+    <string name="flip_to_mute_title">Rahatsız Etmeyin için Çevir</string>
+    <string name="flip_to_mute_summary">Bildirimleri ve aramaları susturmak için telefonu yüzü aşağı bakacak şekilde yerleştirin</string>
     <!-- Do Not Disturb access -->
-    <string name="dnd_access">Please, give Do Not Disturb access to CMActions in order to use this feature.</string>
+    <string name="dnd_access">Bu özelliği kullanmak için lütfen Rahatsız Etmeyin\'e CMActions erişimi verin.</string>
     <!-- Lift to silence gesture -->
-    <string name="lift_to_silence_title">Pick up to stop ringing</string>
-    <string name="lift_to_silence_summary">Lift the phone to silence incoming calls. It only works when your phone starts flat</string>
+    <string name="lift_to_silence_title">Çalmayı durdurmak için aç</string>
+    <string name="lift_to_silence_summary">Gelen aramaları sessize almak için telefonu kaldırın. Yalnızca telefonunuz düz başladığında çalışır</string>
     <!-- Action toggles -->
-    <string name="action_none">Disable</string>
-    <string name="action_launch_camera">Launch camera</string>
-    <string name="action_torch">Toggle torch</string>
+    <string name="action_none">Kapalı</string>
+    <string name="action_launch_camera">Kamerayı başlat</string>
+    <string name="action_torch">Meşaleyi aç/kapat</string>
     <!-- Feedback intensity -->
-    <string name="feedback_intensity_title">Haptic feedback intensity</string>
-    <string name="feedback_intensity_summary">Strength of the haptic feedback for the double-twist and chop-chop actions</string>
-    <string name="feedback_intensity_none">Disabled</string>
-    <string name="feedback_intensity_low">Low</string>
-    <string name="feedback_intensity_medium">Medium</string>
-    <string name="feedback_intensity_high">High</string>
+    <string name="feedback_intensity_title">Dokunsal geribildirim yoğunluğu</string>
+    <string name="feedback_intensity_summary">Çift büküm ve doğrama eylemleri için dokunsal geri bildirimin gücü</string>
+    <string name="feedback_intensity_none">Kapalı</string>
+    <string name="feedback_intensity_low">Düşük</string>
+    <string name="feedback_intensity_medium">Orta</string>
+    <string name="feedback_intensity_high">Yüksek</string>
     <!-- Dialog texts -->
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">Tamam</string>
     <!-- Generic texts -->
-    <string name="disabled">Disabled</string>
+    <string name="disabled">Kapalı</string>
     <!-- Help texts -->
-    <string name="doze_settings_help_title">Help</string>
-    <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
+    <string name="doze_settings_help_title">Yardım</string>
+    <string name="doze_settings_help_text">Bu özellikler, bir doz bildirim darbesi başlatmak için sensör olaylarını kullanır. Seçilen sensör yalnızca cihaz bir bildirim aldığında etkinleştirilir, bu pil kullanımının azaltılmasına yardımcı olur. Ekran kapanır kapanmaz seçilen sensörü etkinleştirme seçeneği de vardır, bu daha yüksek pil kullanımına neden olur.</string>
     <!-- Button settings -->
-    <string name="button_panel_title">Additional buttons</string>
-    <string name="button_swap_title">Swap buttons</string>
-    <string name="button_swap_summary">Swap the order of recents and back buttons</string>
+    <string name="button_panel_title">Ek düğmeler</string>
+    <string name="button_swap_title">Düğmeleri değiştir</string>
+    <string name="button_swap_summary">Son ve geri düğmelerinin sırasını değiştirin</string>
     <!-- Fingerprint -->
-    <string name="fingerprint_title">Fingerprint</string>
-    <string name="fingerprint_as_home_title">Fingerprint as home</string>
-    <string name="fingerprint_as_home_summary">Use the fingerprint sensor as a home button</string>
-    <string name="fingerprint_wakeup_title">Fingerprint wake-up</string>
-    <string name="fingerprint_wakeup_summary">Allow the fingerprint sensor to wake the device while the screen is off</string>
-    <string name="fingerprint_pocketmode_title">Prevent accidental wake-up</string>
-    <string name="fingerprint_pocketmode_summary">Check the proximity sensor prior to wake-ups triggered by the fingerprint sensor</string>
-    <string name="fingerprint_sleep_title">Fingerprint sleep</string>
-    <string name="fingerprint_sleep_summary">Press the fingerprint sensor to turn off the screen</string>
+    <string name="fingerprint_title">Parmak izi</string>
+    <string name="fingerprint_as_home_title">Ev olarak parmak izi</string>
+    <string name="fingerprint_as_home_summary">Parmak izi sensörünü ana sayfa düğmesi olarak kullanın</string>
+    <string name="fingerprint_wakeup_title">Parmak izi uyandırma</string>
+    <string name="fingerprint_wakeup_summary">Ekran kapalıyken parmak izi sensörünün cihazı uyandırmasına izin verin</string>
+    <string name="fingerprint_pocketmode_title">Yanlışlıkla uyanmayı önleyin</string>
+    <string name="fingerprint_pocketmode_summary">Parmak izi sensörü tarafından tetiklenen uyanmalardan önce yakınlık sensörünü kontrol edin</string>
+    <string name="fingerprint_sleep_title">Parmak izi uyku</string>
+    <string name="fingerprint_sleep_summary">Ekranı kapatmak için parmak izi sensörüne basın</string>
     <!-- High touch sensitivity -->
-    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
-    <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
+    <string name="high_touch_sensitivity_title">Yüksek dokunma hassasiyeti</string>
+    <string name="high_touch_sensitivity_summary">Eldiven giyerken kullanılabilmesi için dokunmatik ekran hassasiyetini artırın</string>
     <!-- Quick charge toggle -->
-    <string name="quick_charge_title">Quick charge</string>
-    <string name="quick_charge_summary">Toggle quick charge. Unplug and replug the charger after changing this setting</string>
+    <string name="quick_charge_title">Hızlı şarj</string>
+    <string name="quick_charge_summary">Hızlı şarjı değiştirin. Bu ayarı değiştirdikten sonra şarj cihazını fişten çekin ve yeniden takın</string>
     <!-- Camera focus fix toggle -->
-    <string name="camera_focus_fix_title">Camera focus fix</string>
-    <string name="camera_focus_fix_summary">Enable if you have issues with the camera not focusing</string>
+    <string name="camera_focus_fix_title">Kamera odak düzeltmesi</string>
+    <string name="camera_focus_fix_summary">Kameranın odaklanmamasıyla ilgili sorunlarınız varsa etkinleştirin</string>
     <!-- Wake on gesture -->
-    <string name="wake_on_gesture_title">Wake up on gestures</string>
-    <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+    <string name="wake_on_gesture_title">Hareketlerle uyanın</string>
+    <string name="wake_on_gesture_summary">Hareket olaylarında bildirimleri titreştirmek yerine cihazı uyandırın</string>
     <!-- Alert Slider -->
-    <string name="slider_title">Alert Slider</string>
-    <string name="mute_media_title">Mute media volume</string>
-    <string name="mute_media_summary">Turn off media volume when the alert slider is set to silent</string>
-    <string name="mute_media_warning">This will only take effect for speaker</string>
+    <string name="slider_title">Uyarı Kaydırıcısı</string>
+    <string name="mute_media_title">Medya sesini kapat</string>
+    <string name="mute_media_summary">Uyarı kaydırıcısı sessiz olarak ayarlandığında medya sesini kapatın</string>
+    <string name="mute_media_warning">Bu yalnızca konuşmacı için geçerli olacaktır</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Değer: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">Varsayılan</string>
+    <string name="custom_seekbar_default_value_to_set">Varsayılan değer: <xliff:g id="v">%s</xliff:g>\nAyarlamak için uzun basın</string>
+    <string name="custom_seekbar_default_value_is_set">Varsayılan değer ayarlandı</string>
     <!-- Device Settings -->
-    <string name="device_title">OnePlus Settings</string>
-    <string name="device_summary">Adjust OnePlus specific device settings</string>
+    <string name="device_title">OnePlus Ayarları</string>
+    <string name="device_summary">OnePlus\'a özel cihaz ayarlarını yapın</string>
     <!-- Display Modes -->
-    <string name="display_title">Display Modes</string>
-    <string name="hbm_mode_summary">Instantly enable the peak luminance of the display</string>
-    <string name="hbm_mode_title">High brightness</string>
-    <string name="auto_hbm_summary">Enable peak luminance based on sunlight</string>
-    <string name="auto_hbm_title">Automatic High brightness</string>
-    <string name="auto_hbm_threshold_title">Automatic High brightness threshold (lux)</string>
-    <string name="auto_hbm_threshold_summary">Adjust peak luminance of the display </string>
-    <string name="tile_hbm_mode">High brightness</string>
-    <string name="dc_mode_summary">Dim backlight by adjusting DC current drawn to the display</string>
-    <string name="dc_mode_title">DC Dimming</string>
+    <string name="display_title">Ekran Modları</string>
+    <string name="hbm_mode_summary">Ekranın en yüksek parlaklığını anında etkinleştirin</string>
+    <string name="hbm_mode_title">Yüksek parlaklık</string>
+    <string name="auto_hbm_summary">Güneş ışığına dayalı en yüksek parlaklığı etkinleştirin</string>
+    <string name="auto_hbm_title">Otomatik Yüksek parlaklık</string>
+    <string name="auto_hbm_threshold_title">Otomatik Yüksek parlaklık eşiği (lux)</string>
+    <string name="auto_hbm_threshold_summary">Ekranın tepe parlaklığını ayarlayın </string>
+    <string name="tile_hbm_mode">Yüksek parlaklık</string>
+    <string name="dc_mode_summary">Ekrana çekilen DC akımını ayarlayarak arka ışığı kısın</string>
+    <string name="dc_mode_title">DC Karartma</string>
     <!-- Dolby -->
     <string name="dolby_category">Dolby</string>
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Configure the audio output based on media content</string>
+    <string name="dolby_summary">Medya içeriğine göre ses çıkışını yapılandırın</string>
     <!-- Doze -->
-    <string name="doze_panel_title">Doze</string>
+    <string name="doze_panel_title">On iki</string>
     <!-- FPS Info -->
-    <string name="fps_title">FPS Info</string>
-    <string name="fps_info_title">FPS Overlay</string>
-    <string name="fps_info_summary">Show overlay with current frames per second</string>
-    <string name="fps_info_color_title">Text Color</string>
-    <string name="fps_info_color_green">Green</string>
-    <string name="fps_info_color_red">Red</string>
-    <string name="fps_info_color_blue">Blue</string>
-    <string name="fps_info_color_yellow">Yellow</string>
-    <string name="fps_info_color_black">Black</string>
-    <string name="fps_info_color_accent">Follow System</string>
-    <string name="fps_info_position_title">Overlay Position</string>
-    <string name="fps_info_position_top_left">Top left</string>
-    <string name="fps_info_position_top_center">Top center</string>
-    <string name="fps_info_position_top_right">Top right</string>
-    <string name="fps_info_position_bottom_left">Bottom left</string>
-    <string name="fps_info_position_bottom_center">Bottom center</string>
-    <string name="fps_info_position_bottom_right">Bottom right</string>
-    <string name="fps_info_text_size_title">Text Size</string>
+    <string name="fps_title">FPS Bilgisi</string>
+    <string name="fps_info_title">FPS Yerleşimi</string>
+    <string name="fps_info_summary">Geçerli kare/saniye ile bindirmeyi göster</string>
+    <string name="fps_info_color_title">Metin Rengi</string>
+    <string name="fps_info_color_green">Yeşil</string>
+    <string name="fps_info_color_red">Kırmızı</string>
+    <string name="fps_info_color_blue">Mavi</string>
+    <string name="fps_info_color_yellow">Sarı</string>
+    <string name="fps_info_color_black">Siyah</string>
+    <string name="fps_info_color_accent">Sistemi takip et</string>
+    <string name="fps_info_position_title">Bindirme Konumu</string>
+    <string name="fps_info_position_top_left">Sol üst</string>
+    <string name="fps_info_position_top_center">Üst merkez</string>
+    <string name="fps_info_position_top_right">Sağ üst</string>
+    <string name="fps_info_position_bottom_left">Sol alt</string>
+    <string name="fps_info_position_bottom_center">Alt merkez</string>
+    <string name="fps_info_position_bottom_right">Sağ alt</string>
+    <string name="fps_info_text_size_title">Yazı Boyutu</string>
     <!-- Network -->
-    <string name="network_title">Network</string>
-    <string name="nr_mode_switcher_title">5G Modes Switcher</string>
-    <string name="nsa_only">NSA Only</string>
-    <string name="sa_only">SA Only</string>
+    <string name="network_title">Ağ</string>
+    <string name="nr_mode_switcher_title">5G Modları Değiştirici</string>
+    <string name="nsa_only">Yalnızca NSA</string>
+    <string name="sa_only">Yalnızca SA</string>
     <string name="nsa_sa">NSA + SA</string>
-    <string name="nr_mode_switcher_warning">Please set again after reboot/changed data sim card</string>
-    <string name="service_not_ready">Service not ready, please try again</string>
-    <string name="unavailable_sim_slot">Unable to get current mobile data slot, please try again</string>
+    <string name="nr_mode_switcher_warning">Lütfen yeniden başlattıktan / veri sim kartını değiştirdikten sonra tekrar ayarlayın</string>
+    <string name="service_not_ready">Hizmet hazır değil, lütfen tekrar deneyin</string>
+    <string name="unavailable_sim_slot">Mevcut mobil veri yuvası alınamıyor, lütfen tekrar deneyin</string>
     <!-- Touchpanel -->
-    <string name="touchpanel_title">Touchpanel</string>
-    <string name="game_mode_title">High touch sample</string>
-    <string name="game_mode_summary">Boost touch sampling rate for all applications</string>
-    <string name="game_mode_warning">Increases power consumption</string>
-    <string name="edge_touch_title">Unlimit edge touch</string>
-    <string name="edge_touch_summary">Improve multi-touch experience in games</string>
-    <string name="edge_touch_warning">Increases possibility of accidental touch</string>
+    <string name="touchpanel_title">Dokunmatik panel</string>
+    <string name="game_mode_title">Yüksek dokunuşlu örnek</string>
+    <string name="game_mode_summary">Tüm uygulamalar için dokunmatik örnekleme oranını artırın</string>
+    <string name="game_mode_warning">Güç tüketimini artırır</string>
+    <string name="edge_touch_title">Sınırsız kenar dokunuşu</string>
+    <string name="edge_touch_summary">Oyunlarda çoklu dokunma deneyimini iyileştirin</string>
+    <string name="edge_touch_warning">Yanlışlıkla dokunma olasılığını artırır</string>
     <!-- Unsupported feature -->
-    <string name="unsupported_feature">This feature is unavailable on current kernel</string>
+    <string name="unsupported_feature">Bu özellik mevcut çekirdekte kullanılamıyor</string>
     <!-- Vibration Strength -->
-    <string name="category_vibrator">Vibrator</string>
-    <string name="vib_strength_title_head">Strength</string>
-    <string name="vib_strength_summary_head">Define the strength of the vibration motor</string>
+    <string name="category_vibrator">Titreşim</string>
+    <string name="vib_strength_title_head">Kuvvet</string>
+    <string name="vib_strength_summary_head">Titreşim motorunun gücünü tanımlayın</string>
 </resources>
