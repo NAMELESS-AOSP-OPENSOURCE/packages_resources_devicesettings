@@ -28,7 +28,7 @@
     <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Touchscreen Gesten</string>
     <string name="touchscreen_gesture_settings_summary">Ausführen verschiedener Touchscreen Gesten für schnelle Aktionen</string>
-    <string name="gesture_display_title">Screen off gestures</string>
+    <string name="gesture_display_title">Gesten zum Ausschalten des Bildschirms</string>
     <string name="touchscreen_c_gesture_title">Kamera</string>
     <string name="touchscreen_c_gesture_summary">Zeichne ein \"C\", um die Kamera zu aktivieren</string>
     <string name="touchscreen_e_gesture_title">E-Mail</string>
@@ -46,10 +46,10 @@
     <string name="touchscreen_flashlight_gesture_title">Taschenlampe</string>
     <string name="touchscreen_flashlight_gesture_summary">Zeichnen Sie einen Kreis, um die Taschenlampe umzuschalten</string>
     <string name="touchscreen_music_gesture_title">Musik</string>
-    <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
-    • Swipe down to play/pause\n
-    • Swipe left for previous track\n
-    • Swipe right for next track</string>
+    <string name="touchscreen_music_gesture_summary">Verwenden Sie Gesten, um die Musikwiedergabe zu steuern \n
+    •Zum Abspielen/Pause nach unten wischen\n
+    •Für den vorherigen Titel nach links wischen\n
+    •Für den nächsten Titel nach rechts wischen</string>
     <string name="touchscreen_swipe_up_title">Nach oben wischen</string>
     <string name="touchscreen_swipe_right_title">Nach rechts wischen</string>
     <string name="touchscreen_swipe_down_title">Nach unten wischen</string>
@@ -61,7 +61,7 @@
     <string name="ambient_display_title">Ambiente Display</string>
     <string name="ambient_display_enable_title">Ambiente Anzeige verwenden</string>
     <string name="ambient_display_enable_summary">Bildschirm aktivieren, wenn Sie Benachrichtigungen erhalten</string>
-    <string name="ambient_display_gestures_title">Ambient display gestures</string>
+    <string name="ambient_display_gestures_title">Ambiente Display Gesten</string>
     <string name="ambient_display_gestures_summary">Zusätzliche Gesten zum Aufwecken des Bildschirms</string>
     <string name="ambient_display_summary">Bildschirm aktivieren, wenn Sie Benachrichtigungen erhalten</string>
     <string name="ambient_display_summary_on">Der Bildschirm wird aktiviert, wenn Sie Benachrichtigungen erhalten</string>
@@ -87,27 +87,27 @@
     <string name="pocket_gesture_title">Tasche</string>
     <string name="pocket_gesture_summary">Pulsbenachrichtigungen beim Entfernen aus der Tasche</string>
     <!-- Proximity wake -->
-    <string name="proximity_wake_title">Proximity wake</string>
-    <string name="proximity_wake_enable_title">Proximity wake</string>
-    <string name="proximity_wake_enable_summary">Wake device on hand wave</string>
+    <string name="proximity_wake_title">Wecke aus der Nähe</string>
+    <string name="proximity_wake_enable_title">Wecke aus der Nähe</string>
+    <string name="proximity_wake_enable_summary">Wecken Sie das Gerät auf, indem Sie mit der Hand winken</string>
     <!-- Device actions -->
     <string name="actions_title">Aktionen</string>
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">Double-twist</string>
-    <string name="camera_gesture_summary">Open camera when using the double twist gesture</string>
+    <string name="camera_gesture_title">Doppeldrehung</string>
+    <string name="camera_gesture_summary">Öffnen Sie die Kamera, wenn Sie die Doppeldrehgeste verwenden</string>
     <!-- Chop-chop gesture -->
-    <string name="chop_chop_gesture_title">Chop-chop</string>
-    <string name="chop_chop_gesture_summary">Toggle flashlight when using the chop-chop gesture</string>
+    <string name="chop_chop_gesture_title">Chop-Chop</string>
+    <string name="chop_chop_gesture_summary">Schalten Sie die Taschenlampe ein, wenn Sie die Chop-Chop-Geste verwenden</string>
     <!-- Hand wave silencer gesture -->
-    <string name="hand_wave_silencer_title">Wave to silence</string>
+    <string name="hand_wave_silencer_title">Winke zum Schweigen</string>
     <string name="hand_wave_silencer_summary">Schalten Sie eingehende Anrufe stumm, indem Sie mit der Hand über den Bildschirm schwenken</string>
     <!-- Flip to mute gesture -->
-    <string name="flip_to_mute_title">Flip for Do Not Disturb</string>
+    <string name="flip_to_mute_title">Umdrehen für „Bitte nicht stören“</string>
     <string name="flip_to_mute_summary">Legen Sie das Telefon mit der Vorderseite nach unten ab, um Benachrichtigungen und Anrufe stummzuschalten</string>
     <!-- Do Not Disturb access -->
-    <string name="dnd_access">Please, give Do Not Disturb access to CMActions in order to use this feature.</string>
+    <string name="dnd_access">Bitte geben Sie „Nicht stören“ Zugriff auf CMActions, um diese Funktion nutzen zu können.</string>
     <!-- Lift to silence gesture -->
-    <string name="lift_to_silence_title">Pick up to stop ringing</string>
+    <string name="lift_to_silence_title">Heben Sie ab, um das Klingeln zu beenden</string>
     <string name="lift_to_silence_summary">Heben Sie das Telefon ab, um eingehende Anrufe stummzuschalten. Es funktioniert nur, wenn Ihr Telefon flach startet</string>
     <!-- Action toggles -->
     <string name="action_none">Deaktivieren</string>
@@ -115,7 +115,7 @@
     <string name="action_torch">Taschenlampe umschalten</string>
     <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Intensität des haptischen Feedbacks</string>
-    <string name="feedback_intensity_summary">Strength of the haptic feedback for the double-twist and chop-chop actions</string>
+    <string name="feedback_intensity_summary">Stärke des haptischen Feedbacks für die Double-Twist- und Chop-Chop-Aktionen</string>
     <string name="feedback_intensity_none">Deaktiviert</string>
     <string name="feedback_intensity_low">Niedrig</string>
     <string name="feedback_intensity_medium">Mittel</string>
@@ -126,23 +126,23 @@
     <string name="disabled">Deaktiviert</string>
     <!-- Help texts -->
     <string name="doze_settings_help_title">Hilfe</string>
-    <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
+    <string name="doze_settings_help_text">Diese Funktionen verwenden Sensorereignisse, um einen Impuls für die Einschlafbenachrichtigung auszulösen. Der ausgewählte Sensor wird nur aktiviert, wenn das Gerät eine Benachrichtigung erhält, dies hilft, den Akkuverbrauch zu reduzieren. Es besteht auch die Möglichkeit, den ausgewählten Sensor zu aktivieren, sobald sich der Bildschirm ausschaltet, dies führt zu einem höheren Akkuverbrauch.</string>
     <!-- Button settings -->
     <string name="button_panel_title">Zusätzliche Buttons</string>
     <string name="button_swap_title">Buttons tauschen</string>
     <string name="button_swap_summary">Vertausche die Reihenfolge der letzten und Zurück-Buttons</string>
     <!-- Fingerprint -->
     <string name="fingerprint_title">Fingerabdruck</string>
-    <string name="fingerprint_as_home_title">Fingerprint as home</string>
-    <string name="fingerprint_as_home_summary">Use the fingerprint sensor as a home button</string>
-    <string name="fingerprint_wakeup_title">Fingerprint wake-up</string>
+    <string name="fingerprint_as_home_title">Fingerabdruck als Home</string>
+    <string name="fingerprint_as_home_summary">Verwenden Sie den Fingerabdrucksensor als Home-Button</string>
+    <string name="fingerprint_wakeup_title">Wecken per Fingerabdruck</string>
     <string name="fingerprint_wakeup_summary">Lassen Sie den Fingerabdrucksensor das Gerät aufwecken, während der Bildschirm ausgeschaltet ist</string>
     <string name="fingerprint_pocketmode_title">Unbeabsichtigtes Aufwachen verhindern</string>
-    <string name="fingerprint_pocketmode_summary">Check the proximity sensor prior to wake-ups triggered by the fingerprint sensor</string>
-    <string name="fingerprint_sleep_title">Fingerprint sleep</string>
-    <string name="fingerprint_sleep_summary">Press the fingerprint sensor to turn off the screen</string>
+    <string name="fingerprint_pocketmode_summary">Überprüfen Sie den Näherungssensor vor dem durch den Fingerabdrucksensor ausgelösten Wake-up</string>
+    <string name="fingerprint_sleep_title">Fingerabdruck schlafen</string>
+    <string name="fingerprint_sleep_summary">Drücken Sie auf den Fingerabdrucksensor, um den Bildschirm auszuschalten</string>
     <!-- High touch sensitivity -->
-    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
+    <string name="high_touch_sensitivity_title">Hohe Berührungsempfindlichkeit</string>
     <string name="high_touch_sensitivity_summary">Erhöhen Sie die Empfindlichkeit des Touchscreens, damit er mit Handschuhen verwendet werden kann</string>
     <!-- Quick charge toggle -->
     <string name="quick_charge_title">Schnellladen</string>
@@ -151,7 +151,7 @@
     <string name="camera_focus_fix_title">Kamerafokus behoben</string>
     <string name="camera_focus_fix_summary">Aktivieren Sie diese Option, wenn Sie Probleme damit haben, dass die Kamera nicht fokussiert</string>
     <!-- Wake on gesture -->
-    <string name="wake_on_gesture_title">Wake up on gestures</string>
+    <string name="wake_on_gesture_title">Aufwachen durch Gesten</string>
     <string name="wake_on_gesture_summary">Aktivieren Sie das Gerät, anstatt Benachrichtigungen bei Gestenereignissen zu senden</string>
     <!-- Alert Slider -->
     <string name="slider_title">Alert Slider</string>
@@ -175,14 +175,14 @@
     <string name="auto_hbm_threshold_title">Automatisch Hohe Helligkeitsschwelle (Lux)</string>
     <string name="auto_hbm_threshold_summary">Passen Sie die Spitzenhelligkeit des Displays an </string>
     <string name="tile_hbm_mode">Hohe Helligkeit</string>
-    <string name="dc_mode_summary">Dim backlight by adjusting DC current drawn to the display</string>
-    <string name="dc_mode_title">DC Dimming</string>
+    <string name="dc_mode_summary">Dimmen Sie die Hintergrundbeleuchtung, indem Sie den vom Display gezogenen Gleichstrom anpassen</string>
+    <string name="dc_mode_title">DC-Bildschirmdimmen</string>
     <!-- Dolby -->
     <string name="dolby_category">Dolby</string>
     <string name="dolby_title">Dolby Atmos</string>
     <string name="dolby_summary">Konfigurieren Sie die Audioausgabe basierend auf Medieninhalten</string>
     <!-- Doze -->
-    <string name="doze_panel_title">Doze</string>
+    <string name="doze_panel_title">Schlummern</string>
     <!-- FPS Info -->
     <string name="fps_title">FPS Info</string>
     <string name="fps_info_title">FPS-Überlagerung</string>
