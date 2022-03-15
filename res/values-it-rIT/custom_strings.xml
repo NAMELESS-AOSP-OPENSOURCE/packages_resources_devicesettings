@@ -55,7 +55,7 @@
     <string name="touchscreen_swipe_down_title">Swipe verso il basso</string>
     <string name="touchscreen_swipe_left_title">Swipe verso sinistra</string>
     <!-- User-aware display -->
-    <string name="user_aware_display_title">User-aware display</string>
+    <string name="user_aware_display_title">Display sensibile all\'utente</string>
     <string name="user_aware_display_summary">Mantieni lo schermo attivo mentre un utente è davanti al display</string>
     <!-- Ambient Display -->
     <string name="ambient_display_title">Ambient display</string>
@@ -76,31 +76,31 @@
     <string name="proximity_sensor_title">Sensore di prossimità</string>
     <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Scorrimento della mano</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="hand_wave_gesture_flat_title">Detect orientation</string>
-    <string name="hand_wave_gesture_flat_summary">Pulse only if the phone is lying face up on a flat surface</string>
+    <string name="hand_wave_gesture_summary">Notifiche lampeggiante passando la mano</string>
+    <string name="hand_wave_gesture_flat_title">Rileva orientamento</string>
+    <string name="hand_wave_gesture_flat_summary">Lampeggia solo se il telefono si trova a faccia in su su una superficie piana</string>
     <!-- Pick-up gesture -->
     <string name="pick_up_gesture_title">Solleva</string>
-    <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
+    <string name="pick_up_gesture_summary">Le notifiche lampeggiano quando sollevato</string>
     <string name="pick_up_wake_gesture_summary">Sveglia dispositivo quando viene sollevato</string>
     <!-- Pocket gesture -->
     <string name="pocket_gesture_title">Tasca</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+    <string name="pocket_gesture_summary">Le notifiche lampeggiano quando rimosso dalla tasca</string>
     <!-- Proximity wake -->
     <string name="proximity_wake_title">Risveglio in prossimità</string>
     <string name="proximity_wake_enable_title">Risveglio in prossimità</string>
-    <string name="proximity_wake_enable_summary">Wake device on hand wave</string>
+    <string name="proximity_wake_enable_summary">Sveglia il dispositivo con la mano</string>
     <!-- Device actions -->
     <string name="actions_title">Azioni</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Double-twist</string>
-    <string name="camera_gesture_summary">Open camera when using the double twist gesture</string>
+    <string name="camera_gesture_summary">Apri la fotocamera usando i gesti double twist</string>
     <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Chop-chop</string>
-    <string name="chop_chop_gesture_summary">Toggle flashlight when using the chop-chop gesture</string>
+    <string name="chop_chop_gesture_summary">Attiva/disattiva la torcia usando i gesti chop-chop</string>
     <!-- Hand wave silencer gesture -->
-    <string name="hand_wave_silencer_title">Wave to silence</string>
-    <string name="hand_wave_silencer_summary">Silence incoming calls by waving your hand across the screen</string>
+    <string name="hand_wave_silencer_title">Passa la mano sul display per silenziare</string>
+    <string name="hand_wave_silencer_summary">Silenzia le chiamate in arrivo passando la mano sullo schermo</string>
     <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Gira il dispositivo per attivare la modalità non disturbare</string>
     <string name="flip_to_mute_summary">Poni il cellulare a faccia in giù per silenziare le notifiche e le chiamate</string>
@@ -115,7 +115,7 @@
     <string name="action_torch">Attiva la torcia</string>
     <!-- Feedback intensity -->
     <string name="feedback_intensity_title">Intensità della risposta tattile</string>
-    <string name="feedback_intensity_summary">Strength of the haptic feedback for the double-twist and chop-chop actions</string>
+    <string name="feedback_intensity_summary">Forza del feedback tattile per il double-twist e chop-chop</string>
     <string name="feedback_intensity_none">Disabilitato</string>
     <string name="feedback_intensity_low">Basso</string>
     <string name="feedback_intensity_medium">Medio</string>
@@ -126,7 +126,7 @@
     <string name="disabled">Disabilitato</string>
     <!-- Help texts -->
     <string name="doze_settings_help_title">Aiuto</string>
-    <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
+    <string name="doze_settings_help_text">Queste funzionalità utilizzano gli eventi del sensore per avviare un impulso di notifica lampeggiante. Il sensore scelto viene abilitato solo quando il dispositivo riceve una notifica, questo aiuta a ridurre l\'utilizzo della batteria. C\'è anche un\'opzione per abilitare il sensore scelto non appena lo schermo si spegne, ciò causerà un maggiore utilizzo della batteria.</string>
     <!-- Button settings -->
     <string name="button_panel_title">Tasti aggiuntivi</string>
     <string name="button_swap_title">Inverti i tasti</string>
@@ -138,26 +138,26 @@
     <string name="fingerprint_wakeup_title">Risveglio con impronta</string>
     <string name="fingerprint_wakeup_summary">Permetti al sensore impronte di risvegliare il telefono quando lo schermo è spento</string>
     <string name="fingerprint_pocketmode_title">Previeni risvegli accidentali</string>
-    <string name="fingerprint_pocketmode_summary">Check the proximity sensor prior to wake-ups triggered by the fingerprint sensor</string>
+    <string name="fingerprint_pocketmode_summary">Controlla il sensore di prossimità prima dei risvegli attivati ​​dal sensore di impronte digitali</string>
     <string name="fingerprint_sleep_title">Fingerprint sleep</string>
     <string name="fingerprint_sleep_summary">Premi il sensore di impronte per spegnere lo schermo</string>
     <!-- High touch sensitivity -->
-    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
-    <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
+    <string name="high_touch_sensitivity_title">Alta sensibilità del touchscreen</string>
+    <string name="high_touch_sensitivity_summary">Incrementa la sensibilità del touchscreen così da essere usato mentre si indossano guanti</string>
     <!-- Quick charge toggle -->
     <string name="quick_charge_title">Carica rapida</string>
     <string name="quick_charge_summary">Attiva la carica rapida. Stacca e riattacca il caricatore dopo aver cambiato questa impostazione</string>
     <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Camera focus fix</string>
-    <string name="camera_focus_fix_summary">Enable if you have issues with the camera not focusing</string>
+    <string name="camera_focus_fix_summary">Abilita se la fotocamera ha problemi con il focus</string>
     <!-- Wake on gesture -->
-    <string name="wake_on_gesture_title">Wake up on gestures</string>
-    <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+    <string name="wake_on_gesture_title">Sveglia con i gesti</string>
+    <string name="wake_on_gesture_summary">Risveglia il dispositivo invece delle notifiche lampeggianti quando vengono usati i gesti</string>
     <!-- Alert Slider -->
     <string name="slider_title">Alert Slider</string>
-    <string name="mute_media_title">Mute media volume</string>
-    <string name="mute_media_summary">Turn off media volume when the alert slider is set to silent</string>
-    <string name="mute_media_warning">This will only take effect for speaker</string>
+    <string name="mute_media_title">Muta volume dei media</string>
+    <string name="mute_media_summary">Spegni il volume multimediale quando l\'alert slider è impostato su silenzioso</string>
+    <string name="mute_media_warning">Avrà effetto solo per l\'altoparlante</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Valore: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">Default</string>
@@ -167,15 +167,15 @@
     <string name="device_title">Impostazioni OnePlus</string>
     <string name="device_summary">Regola le impostazioni specifiche dei dispositivi OnePlus</string>
     <!-- Display Modes -->
-    <string name="display_title">Display Modes</string>
+    <string name="display_title">Modalità display</string>
     <string name="hbm_mode_summary">Abilità istantaneamente la luminosità massima dello schermo</string>
     <string name="hbm_mode_title">Alta luminosità</string>
-    <string name="auto_hbm_summary">Enable peak luminance based on sunlight</string>
-    <string name="auto_hbm_title">Automatic High brightness</string>
-    <string name="auto_hbm_threshold_title">Automatic High brightness threshold (lux)</string>
-    <string name="auto_hbm_threshold_summary">Adjust peak luminance of the display </string>
-    <string name="tile_hbm_mode">High brightness</string>
-    <string name="dc_mode_summary">Dim backlight by adjusting DC current drawn to the display</string>
+    <string name="auto_hbm_summary">Abilita la luminosità di picco in base alla luce solare</string>
+    <string name="auto_hbm_title">Alza automaticamente la luminosità</string>
+    <string name="auto_hbm_threshold_title">Alza automaticamente la soglia di luminosità (lux)</string>
+    <string name="auto_hbm_threshold_summary">Regola la luminosità di picco del display </string>
+    <string name="tile_hbm_mode">Alta luminosità</string>
+    <string name="dc_mode_summary">Abbassa la retroilluminazione regolando la corrente DC assorbita dal display</string>
     <string name="dc_mode_title">DC Dimming</string>
     <!-- Dolby -->
     <string name="dolby_category">Dolby</string>
@@ -186,16 +186,16 @@
     <!-- FPS Info -->
     <string name="fps_title">FPS Info</string>
     <string name="fps_info_title">FPS Overlay</string>
-    <string name="fps_info_summary">Show overlay with current frames per second</string>
+    <string name="fps_info_summary">Mostra la sovrapposizione con i fotogrammi al secondo</string>
     <string name="fps_info_color_title">Colore del testo</string>
-    <string name="fps_info_color_green">Green</string>
-    <string name="fps_info_color_red">Red</string>
-    <string name="fps_info_color_blue">Blue</string>
-    <string name="fps_info_color_yellow">Yellow</string>
-    <string name="fps_info_color_black">Black</string>
-    <string name="fps_info_color_accent">Follow System</string>
-    <string name="fps_info_position_title">Overlay Position</string>
-    <string name="fps_info_position_top_left">Top left</string>
+    <string name="fps_info_color_green">Verde</string>
+    <string name="fps_info_color_red">Rosso</string>
+    <string name="fps_info_color_blue">Blu</string>
+    <string name="fps_info_color_yellow">Giallo</string>
+    <string name="fps_info_color_black">Nero</string>
+    <string name="fps_info_color_accent">Segui il sistema</string>
+    <string name="fps_info_position_title">Posizione overlay</string>
+    <string name="fps_info_position_top_left">In alto a sinistra</string>
     <string name="fps_info_position_top_center">In alto al centro</string>
     <string name="fps_info_position_top_right">In alto a destra</string>
     <string name="fps_info_position_bottom_left">In basso a sinistra</string>
@@ -204,19 +204,19 @@
     <string name="fps_info_text_size_title">Dimensioni del testo</string>
     <!-- Network -->
     <string name="network_title">Rete</string>
-    <string name="nr_mode_switcher_title">5G Modes Switcher</string>
-    <string name="nsa_only">NSA Only</string>
-    <string name="sa_only">SA Only</string>
+    <string name="nr_mode_switcher_title">Commutatore modalità 5G</string>
+    <string name="nsa_only">Solo NSA</string>
+    <string name="sa_only">Solo SA</string>
     <string name="nsa_sa">NSA + SA</string>
-    <string name="nr_mode_switcher_warning">Please set again after reboot/changed data sim card</string>
+    <string name="nr_mode_switcher_warning">Per favore imposta nuovamente dopo il riavvio/modifica della scheda Sim dati</string>
     <string name="service_not_ready">Servizio non pronto, si prega di riprovare nuovamente</string>
-    <string name="unavailable_sim_slot">Unable to get current mobile data slot, please try again</string>
+    <string name="unavailable_sim_slot">Impossibile ottenere lo slot dati mobili, per favore riprova</string>
     <!-- Touchpanel -->
-    <string name="touchpanel_title">Touchpanel</string>
-    <string name="game_mode_title">High touch sample</string>
+    <string name="touchpanel_title">Pannello touch</string>
+    <string name="game_mode_title">Elevato campionamento del touch</string>
     <string name="game_mode_summary">Aumenta frequenza di campionamento tocchi per tutte le applicazioni</string>
     <string name="game_mode_warning">Aumenta consumo energetico</string>
-    <string name="edge_touch_title">Unlimit edge touch</string>
+    <string name="edge_touch_title">Infiniti tocchi al bordo</string>
     <string name="edge_touch_summary">Migliora l\'esperienza multi-tocco nei giochi</string>
     <string name="edge_touch_warning">Aumenta la possibilità di tocchi accidentali</string>
     <!-- Unsupported feature -->
