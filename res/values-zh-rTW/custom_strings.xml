@@ -185,7 +185,7 @@
     <string name="doze_panel_title">休眠</string>
     <!-- FPS Info -->
     <string name="fps_title">FPS 幀率顯示</string>
-    <string name="fps_info_title">FPS Overlay</string>
+    <string name="fps_info_title">FPS幀數</string>
     <string name="fps_info_summary">顯示幀率懸浮視窗</string>
     <string name="fps_info_color_title">文字顏色</string>
     <string name="fps_info_color_green">綠色</string>
