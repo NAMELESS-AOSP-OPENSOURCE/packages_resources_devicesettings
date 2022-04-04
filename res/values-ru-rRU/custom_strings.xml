@@ -28,21 +28,21 @@
     <!-- Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Жесты сенсорного экрана</string>
     <string name="touchscreen_gesture_settings_summary">Настройка жестов сенсорного экрана для выполнения действий</string>
-    <string name="gesture_display_title">Жесты выключенного экрана</string>
+    <string name="gesture_display_title">Жесты при выключенном экране</string>
     <string name="touchscreen_c_gesture_title">Камера</string>
-    <string name="touchscreen_c_gesture_summary">Нарисуйте букву «C», чтобы включить камеру</string>
+    <string name="touchscreen_c_gesture_summary">Нарисуйте «C», чтобы включить камеру</string>
     <string name="touchscreen_e_gesture_title">Эл. почта</string>
-    <string name="touchscreen_e_gesture_summary">Нарисуйте букву «е», чтобы открыть приложение электронной почты</string>
+    <string name="touchscreen_e_gesture_summary">Нарисуйте «e», чтобы открыть приложение электронной почты</string>
     <string name="touchscreen_m_gesture_title">Сообщения</string>
-    <string name="touchscreen_m_gesture_summary">Нарисуйте букву «M», чтобы открыть приложение для обмена сообщениями</string>
+    <string name="touchscreen_m_gesture_summary">Нарисуйте «M», чтобы открыть приложение для обмена сообщениями</string>
     <string name="touchscreen_s_gesture_title">Сообщения</string>
-    <string name="touchscreen_s_gesture_summary">Нарисуйте букву «S», чтобы открыть приложение для обмена сообщениями</string>
+    <string name="touchscreen_s_gesture_summary">Нарисуйте «S», чтобы открыть приложение для обмена сообщениями</string>
     <string name="touchscreen_v_gesture_title">Телефон</string>
-    <string name="touchscreen_v_gesture_summary">Нарисуйте букву «V», чтобы открыть телефон</string>
+    <string name="touchscreen_v_gesture_summary">Нарисуйте «V», чтобы открыть телефон</string>
     <string name="touchscreen_w_gesture_title">Браузер</string>
-    <string name="touchscreen_w_gesture_summary">Нарисуйте букву «W», чтобы открыть браузер</string>
+    <string name="touchscreen_w_gesture_summary">Нарисуйте «W», чтобы открыть браузер</string>
     <string name="touchscreen_z_gesture_title">Фонарик</string>
-    <string name="touchscreen_z_gesture_summary">Нарисуйте букву «Z», чтобы включить или выключить фонарик</string>
+    <string name="touchscreen_z_gesture_summary">Нарисуйте «Z», чтобы включить или выключить фонарик</string>
     <string name="touchscreen_flashlight_gesture_title">Фонарик</string>
     <string name="touchscreen_flashlight_gesture_summary">Нарисуйте круг, чтобы включить или выключить фонарик</string>
     <string name="touchscreen_music_gesture_title">Музыка</string>
@@ -56,14 +56,14 @@
     <string name="touchscreen_swipe_left_title">Свайп влево</string>
     <!-- User-aware display -->
     <string name="user_aware_display_title">Интеллектуальное откл. экрана</string>
-    <string name="user_aware_display_summary">Не отключать экран, пока пользователь находится перед ним</string>
+    <string name="user_aware_display_summary">Не отключать экран, пока вы смотрите на него</string>
     <!-- Ambient Display -->
     <string name="ambient_display_title">Индикация событий</string>
     <string name="ambient_display_enable_title">Индикация событий</string>
-    <string name="ambient_display_enable_summary">Включать экран при получении уведомлений</string>
+    <string name="ambient_display_enable_summary">Включение экрана при получении уведомлений</string>
     <string name="ambient_display_gestures_title">Жесты Ambient Display</string>
     <string name="ambient_display_gestures_summary">Дополнительные жесты для пробуждения экрана</string>
-    <string name="ambient_display_summary">Включать экран при получении уведомлений</string>
+    <string name="ambient_display_summary">Включение экрана при получении уведомлений</string>
     <string name="ambient_display_summary_on">Включать экран при получении уведомлений</string>
     <string name="ambient_display_summary_off">Не включать экран при получении уведомлений</string>
     <string name="ambient_display_always_on_title">Всегда включен</string>
@@ -78,9 +78,9 @@
     <string name="hand_wave_gesture_title">Взмах рукой</string>
     <string name="hand_wave_gesture_summary">Проведите ладонью над экраном для просмотра уведомлений</string>
     <string name="hand_wave_gesture_flat_title">Учитывать положение устройства</string>
-    <string name="hand_wave_gesture_flat_summary">Показывать уведомления только тогда, когда телефон лежит на плоской поверхности экраном вверх</string>
+    <string name="hand_wave_gesture_flat_summary">Показывать уведомления только тогда, когда телефон лежит экраном вверх на плоской поверхности</string>
     <!-- Pick-up gesture -->
-    <string name="pick_up_gesture_title">Поднять</string>
+    <string name="pick_up_gesture_title">Действие при поднятии</string>
     <string name="pick_up_gesture_summary">Отображать уведомления при поднятии устройства</string>
     <string name="pick_up_wake_gesture_summary">Пробуждать устройство при поднятии</string>
     <!-- Pocket gesture -->
