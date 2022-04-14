@@ -225,4 +225,16 @@
     <string name="category_vibrator">Вибрация</string>
     <string name="vib_strength_title_head">Сила вибрации</string>
     <string name="vib_strength_summary_head">Выберите силу вибрации</string>
+    <!-- Wireless Charger -->
+    <string name="wireless_charger_category">Беспроводная зарядка</string>
+    <string name="wireless_charger_quiet_mode_title">Тихий режим</string>
+    <string name="wireless_charger_quiet_mode_summary">Работа беспроводного зарядного устройства на низком уровне мощности для минимизации шума</string>
+    <string name="wireless_charger_quiet_mode_enable_title">Включить тихий режим</string>
+    <string name="wireless_charger_settings_title">Настройки беспроводной зарядки</string>
+    <string name="wireless_charger_quiet_mode_time">Когда включать</string>
+    <string name="wireless_charger_quiet_mode_always">Всегда</string>
+    <string name="wireless_charger_quiet_mode_custom">Пользовательское</string>
+    <string name="wireless_charger_quiet_mode_disabled">Отключено</string>
+    <string name="wireless_charger_quiet_mode_start">Время начала</string>
+    <string name="wireless_charger_quiet_mode_end">Время окончания</string>
 </resources>

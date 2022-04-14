@@ -225,4 +225,16 @@
     <string name="category_vibrator">振动</string>
     <string name="vib_strength_title_head">强度</string>
     <string name="vib_strength_summary_head">自定义振动强度</string>
+    <!-- Wireless Charger -->
+    <string name="wireless_charger_category">无线充电</string>
+    <string name="wireless_charger_quiet_mode_title">静音模式</string>
+    <string name="wireless_charger_quiet_mode_summary">在低功率模式下运行无线充电器以减小噪音</string>
+    <string name="wireless_charger_quiet_mode_enable_title">启用静音模式</string>
+    <string name="wireless_charger_settings_title">无线充电设置</string>
+    <string name="wireless_charger_quiet_mode_time">何时开启</string>
+    <string name="wireless_charger_quiet_mode_always">总是开启</string>
+    <string name="wireless_charger_quiet_mode_custom">自定义时间段</string>
+    <string name="wireless_charger_quiet_mode_disabled">已禁用</string>
+    <string name="wireless_charger_quiet_mode_start">开始时间</string>
+    <string name="wireless_charger_quiet_mode_end">结束时间</string>
 </resources>

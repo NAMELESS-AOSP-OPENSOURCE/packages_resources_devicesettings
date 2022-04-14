@@ -225,4 +225,16 @@
     <string name="category_vibrator">振動</string>
     <string name="vib_strength_title_head">強さ</string>
     <string name="vib_strength_summary_head">バイブレーターの強さを決定する</string>
+    <!-- Wireless Charger -->
+    <string name="wireless_charger_category">ワイヤレス充電器</string>
+    <string name="wireless_charger_quiet_mode_title">静穏モード</string>
+    <string name="wireless_charger_quiet_mode_summary">ノイズを小さくするために低電力でワイヤレス充電を行う</string>
+    <string name="wireless_charger_quiet_mode_enable_title">静穏モードを有効化</string>
+    <string name="wireless_charger_settings_title">ワイヤレス充電器の設定</string>
+    <string name="wireless_charger_quiet_mode_time">有効化するタイミング</string>
+    <string name="wireless_charger_quiet_mode_always">常時</string>
+    <string name="wireless_charger_quiet_mode_custom">カスタム</string>
+    <string name="wireless_charger_quiet_mode_disabled">無効</string>
+    <string name="wireless_charger_quiet_mode_start">開始時刻</string>
+    <string name="wireless_charger_quiet_mode_end">終了時刻</string>
 </resources>
