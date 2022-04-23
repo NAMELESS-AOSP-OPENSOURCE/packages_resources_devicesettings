@@ -226,7 +226,7 @@
     <string name="vib_strength_title_head">強度</string>
     <string name="vib_strength_summary_head">自訂震動強度</string>
     <!-- Wireless Charger -->
-    <string name="wireless_charger_category">Wireless Charger</string>
+    <string name="wireless_charger_category">無線充電</string>
     <string name="wireless_charger_quiet_mode_title">Quiet mode</string>
     <string name="wireless_charger_quiet_mode_summary">Run wireless charger at a low power level to minimise noise</string>
     <string name="wireless_charger_quiet_mode_enable_title">Enable quiet mode</string>
