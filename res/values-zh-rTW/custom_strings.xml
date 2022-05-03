@@ -227,14 +227,14 @@
     <string name="vib_strength_summary_head">自訂震動強度</string>
     <!-- Wireless Charger -->
     <string name="wireless_charger_category">無線充電</string>
-    <string name="wireless_charger_quiet_mode_title">Quiet mode</string>
-    <string name="wireless_charger_quiet_mode_summary">Run wireless charger at a low power level to minimise noise</string>
-    <string name="wireless_charger_quiet_mode_enable_title">Enable quiet mode</string>
-    <string name="wireless_charger_settings_title">Wireless charger settings</string>
-    <string name="wireless_charger_quiet_mode_time">When to enable</string>
-    <string name="wireless_charger_quiet_mode_always">Always</string>
-    <string name="wireless_charger_quiet_mode_custom">Custom</string>
-    <string name="wireless_charger_quiet_mode_disabled">Disabled</string>
-    <string name="wireless_charger_quiet_mode_start">Start time</string>
-    <string name="wireless_charger_quiet_mode_end">End time</string>
+    <string name="wireless_charger_quiet_mode_title">靜音模式</string>
+    <string name="wireless_charger_quiet_mode_summary">在低功率模式下運行無線充電器以減小噪音</string>
+    <string name="wireless_charger_quiet_mode_enable_title">啟用靜音模式</string>
+    <string name="wireless_charger_settings_title">無線充電設定</string>
+    <string name="wireless_charger_quiet_mode_time">開啟時間</string>
+    <string name="wireless_charger_quiet_mode_always">總是開啟</string>
+    <string name="wireless_charger_quiet_mode_custom">自訂時間</string>
+    <string name="wireless_charger_quiet_mode_disabled">已禁用</string>
+    <string name="wireless_charger_quiet_mode_start">開始時間</string>
+    <string name="wireless_charger_quiet_mode_end">結束時間</string>
 </resources>

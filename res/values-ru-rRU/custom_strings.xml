@@ -76,7 +76,7 @@
     <string name="proximity_sensor_title">Датчик приближения</string>
     <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">Взмах рукой</string>
-    <string name="hand_wave_gesture_summary">Проведите ладонью над экраном для просмотра уведомлений</string>
+    <string name="hand_wave_gesture_summary">Отображать уведомления при взмахе ладонью</string>
     <string name="hand_wave_gesture_flat_title">Учитывать положение устройства</string>
     <string name="hand_wave_gesture_flat_summary">Показывать уведомления только тогда, когда телефон лежит экраном вверх на плоской поверхности</string>
     <!-- Pick-up gesture -->
@@ -87,36 +87,36 @@
     <string name="pocket_gesture_title">Карман</string>
     <string name="pocket_gesture_summary">Отображать уведомления при извлечении устройства из кармана</string>
     <!-- Proximity wake -->
-    <string name="proximity_wake_title">Включение по датчикам</string>
-    <string name="proximity_wake_enable_title">Включение по датчикам</string>
-    <string name="proximity_wake_enable_summary">Проведите ладонью над экраном, чтобы вывести устройство из режима сна</string>
+    <string name="proximity_wake_title">Пробуждение по датчику приближения</string>
+    <string name="proximity_wake_enable_title">Пробуждение по датчику приближения</string>
+    <string name="proximity_wake_enable_summary">Проведите ладонью над экраном для пробуждения устройства</string>
     <!-- Device actions -->
     <string name="actions_title">Действия</string>
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">Двойное вращение</string>
-    <string name="camera_gesture_summary">Запускать приложение камеры при двойном вращении</string>
+    <string name="camera_gesture_title">Вращение</string>
+    <string name="camera_gesture_summary">Запускать приложение камеры при вращении устройства</string>
     <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Встряхивание</string>
-    <string name="chop_chop_gesture_summary">Включать или выключать фонарик при постукивании</string>
+    <string name="chop_chop_gesture_summary">Включать или выключать фонарик при встряхивании</string>
     <!-- Hand wave silencer gesture -->
-    <string name="hand_wave_silencer_title">Взмах для отключения звука</string>
-    <string name="hand_wave_silencer_summary">Проведите рукой над экраном, чтобы приглушить звук входящего звонка</string>
+    <string name="hand_wave_silencer_title">Взмах ладонью для отключения звука</string>
+    <string name="hand_wave_silencer_summary">Проведите рукой над экраном, чтобы приглушить звук входящих звонков</string>
     <!-- Flip to mute gesture -->
     <string name="flip_to_mute_title">Перевернуть для включения режима \"Не беспокоить\"</string>
     <string name="flip_to_mute_summary">Переверните телефон экраном вниз, чтобы отключить звуки уведомлений и вызовов</string>
     <!-- Do Not Disturb access -->
     <string name="dnd_access">Для использования этой возможности предоставьте режиму \"Не беспокоить\" доступ к CMActions.</string>
     <!-- Lift to silence gesture -->
-    <string name="lift_to_silence_title">Отключение звука</string>
+    <string name="lift_to_silence_title">Поднятие для отключения звука звонка</string>
     <string name="lift_to_silence_summary">Поднимите телефон, чтобы заглушить звук звонка. Это действие сработает, если телефон лежал горизонтально</string>
     <!-- Action toggles -->
     <string name="action_none">Отключить</string>
     <string name="action_launch_camera">Запуск камеры</string>
-    <string name="action_torch">Фонарик</string>
+    <string name="action_torch">Вкл./выкл. фонарик</string>
     <!-- Feedback intensity -->
-    <string name="feedback_intensity_title">Мощность виброотклика</string>
-    <string name="feedback_intensity_summary">Настройка силы вибрации для жестов вращения и встряхивания</string>
-    <string name="feedback_intensity_none">Выключен</string>
+    <string name="feedback_intensity_title">Сила виброотклика</string>
+    <string name="feedback_intensity_summary">Настройка силы виброотклика для жестов вращения и встряхивания</string>
+    <string name="feedback_intensity_none">Отключена</string>
     <string name="feedback_intensity_low">Низкая</string>
     <string name="feedback_intensity_medium">Средняя</string>
     <string name="feedback_intensity_high">Высокая</string>
@@ -125,8 +125,8 @@
     <!-- Generic texts -->
     <string name="disabled">Выключен</string>
     <!-- Help texts -->
-    <string name="doze_settings_help_title">Информация</string>
-    <string name="doze_settings_help_text">Эти функции используют события датчиков для отображения уведомлений. Датчик проверяется только при поступлении нового уведомления, что помогает сэкономить заряд батареи. Можно активировать включение датчика сразу при отключении экрана устройства, однако это может ускорить разряд батареи.</string>
+    <string name="doze_settings_help_title">Помощь</string>
+    <string name="doze_settings_help_text">Эти функции используют датчики для отображения уведомлений. Выбранный датчик включается только при поступлении нового уведомления, что помогает сэкономить заряд батареи. Также можно активировать включение датчика сразу при отключении экрана устройства, однако это приведёт к увеличенному расходу батареи.</string>
     <!-- Button settings -->
     <string name="button_panel_title">Дополнительные кнопки</string>
     <string name="button_swap_title">Поменять кнопки местами</string>
@@ -142,22 +142,22 @@
     <string name="fingerprint_sleep_title">Отключение экрана отпечатком</string>
     <string name="fingerprint_sleep_summary">Нажмите на сканер отпечатка пальца для отключения экрана</string>
     <!-- High touch sensitivity -->
-    <string name="high_touch_sensitivity_title">Высокая чувствительность касания</string>
-    <string name="high_touch_sensitivity_summary">Увеличить чувствительность экрана для возможности работы в перчатках</string>
+    <string name="high_touch_sensitivity_title">Высокая чувствительность к прикосновениям</string>
+    <string name="high_touch_sensitivity_summary">Повысить чувствительность сенсора для использования устройства в перчатках</string>
     <!-- Quick charge toggle -->
     <string name="quick_charge_title">Быстрая зарядка</string>
-    <string name="quick_charge_summary">Быстрая зарядка. Отсоедините и повторно подключите зарядное устройство после изменения данной настройки.</string>
+    <string name="quick_charge_summary">Вкл./выкл. быструю зарядку. Отсоедините и повторно подключите зарядное устройство после изменения этого параметра</string>
     <!-- Camera focus fix toggle -->
     <string name="camera_focus_fix_title">Исправить фокусировку камеры</string>
     <string name="camera_focus_fix_summary">Включите, если у вас есть проблемы с фокусировкой камеры</string>
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Пробуждение жестами</string>
-    <string name="wake_on_gesture_summary">Пробуждение устройства вместо уведомлений при использовании жестов</string>
+    <string name="wake_on_gesture_summary">Пробуждение устройства вместо показа уведомлений при использовании жестов</string>
     <!-- Alert Slider -->
-    <string name="slider_title">Слайдер оповещений</string>
-    <string name="mute_media_title">Приглушение громкости мультимедиа</string>
-    <string name="mute_media_summary">Заглушить громкость мультимедиа, если ползунок оповещения установлен в положение \"Без звука\"</string>
-    <string name="mute_media_warning">Это воздействует только на динамик</string>
+    <string name="slider_title">Ползунок оповещений</string>
+    <string name="mute_media_title">Отключение громкости мультимедиа</string>
+    <string name="mute_media_summary">Отключить громкость мультимедиа, если ползунок оповещений установлен в положение \"Без звука\"</string>
+    <string name="mute_media_warning">Это повлияет только на динамик</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Значение: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">По умолчанию</string>
@@ -165,42 +165,42 @@
     <string name="custom_seekbar_default_value_is_set">Значение по умолчанию установлено</string>
     <!-- Device Settings -->
     <string name="device_title">Настройки OnePlus</string>
-    <string name="device_summary">Настройка специфических параметров устройства OnePlus</string>
+    <string name="device_summary">Настройка параметров устройства OnePlus</string>
     <!-- Display Modes -->
     <string name="display_title">Режимы экрана</string>
-    <string name="hbm_mode_summary">Мгновенное включение пиковой яркости дисплея</string>
-    <string name="hbm_mode_title">Высокая яркость</string>
+    <string name="hbm_mode_summary">Мгновенное включение максимальной яркости экрана</string>
+    <string name="hbm_mode_title">Режим высокой яркости</string>
     <string name="auto_hbm_summary">Включить пиковую яркость на солнечном свете</string>
-    <string name="auto_hbm_title">Автоматическая Высокая яркость</string>
-    <string name="auto_hbm_threshold_title">Автоматический Верхний порог яркости (люкс)</string>
-    <string name="auto_hbm_threshold_summary">Автоматический порог высокой яркости (люкс) </string>
-    <string name="tile_hbm_mode">Высокая яркость</string>
-    <string name="dc_mode_summary">Регулировка яркости подсветки путем изменения постоянного тока, подаваемого на дисплей</string>
-    <string name="dc_mode_title">Регулировка постоянного тока</string>
+    <string name="auto_hbm_title">Автоматический режим высокой яркости</string>
+    <string name="auto_hbm_threshold_title">Порог освещения (люкс) для автоматического режима высокой яркости</string>
+    <string name="auto_hbm_threshold_summary">Настройка порога освещения (люкс) для включения автоматического режима высокой яркости</string>
+    <string name="tile_hbm_mode">Режим высокой яркости</string>
+    <string name="dc_mode_summary">Регулировка яркости экрана путём изменения мощности тока, подаваемого на дисплей</string>
+    <string name="dc_mode_title">DC Dimming</string>
     <!-- Dolby -->
     <string name="dolby_category">Dolby</string>
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Настройка аудиовыхода на основе медиаконтента</string>
+    <string name="dolby_summary">Настройка параметров аудиовыхода на основе медиаконтента</string>
     <!-- Doze -->
     <string name="doze_panel_title">Doze</string>
     <!-- FPS Info -->
     <string name="fps_title">Информация о FPS</string>
     <string name="fps_info_title">Оверлей FPS</string>
-    <string name="fps_info_summary">Показывать наложение с текущей частотой кадров в секунду</string>
+    <string name="fps_info_summary">Показывать оверлей с текущей частотой кадров в секунду</string>
     <string name="fps_info_color_title">Цвет текста</string>
-    <string name="fps_info_color_green">Зеленый</string>
+    <string name="fps_info_color_green">Зелёный</string>
     <string name="fps_info_color_red">Красный</string>
-    <string name="fps_info_color_blue">Голубой</string>
-    <string name="fps_info_color_yellow">Желтый</string>
-    <string name="fps_info_color_black">Черный</string>
-    <string name="fps_info_color_accent">Следование системе</string>
-    <string name="fps_info_position_title">Позиция надстройки</string>
-    <string name="fps_info_position_top_left">Слева вверху</string>
-    <string name="fps_info_position_top_center">По центру сверху</string>
-    <string name="fps_info_position_top_right">Справа вверху</string>
-    <string name="fps_info_position_bottom_left">Слева внизу</string>
-    <string name="fps_info_position_bottom_center">По центру снизу</string>
-    <string name="fps_info_position_bottom_right">Справа внизу</string>
+    <string name="fps_info_color_blue">Синий</string>
+    <string name="fps_info_color_yellow">Жёлтый</string>
+    <string name="fps_info_color_black">Чёрный</string>
+    <string name="fps_info_color_accent">Следовать системе</string>
+    <string name="fps_info_position_title">Расположение оверлея</string>
+    <string name="fps_info_position_top_left">Сверху слева</string>
+    <string name="fps_info_position_top_center">Сверху по центру</string>
+    <string name="fps_info_position_top_right">Сверху справа</string>
+    <string name="fps_info_position_bottom_left">Снизу слева</string>
+    <string name="fps_info_position_bottom_center">Снизу по центру</string>
+    <string name="fps_info_position_bottom_right">Снизу справа</string>
     <string name="fps_info_text_size_title">Размер текста</string>
     <!-- Network -->
     <string name="network_title">Сеть</string>
@@ -208,32 +208,32 @@
     <string name="nsa_only">Только NSA</string>
     <string name="sa_only">Только SA</string>
     <string name="nsa_sa">NSA + SA</string>
-    <string name="nr_mode_switcher_warning">Пожалуйста, повторите настройку после перезагрузки/изменения данных sim-карты</string>
-    <string name="service_not_ready">Сервис не готов, попробуйте еще раз</string>
-    <string name="unavailable_sim_slot">Невозможно получить текущий слот мобильных данных, пожалуйста, попробуйте еще раз</string>
+    <string name="nr_mode_switcher_warning">Пожалуйста, повторите настройку после перезагрузки или изменении данных SIM-карты</string>
+    <string name="service_not_ready">Сервис не готов, попробуйте ещё раз</string>
+    <string name="unavailable_sim_slot">Невозможно установить текущий слот мобильных данных, пожалуйста, попробуйте ещё раз</string>
     <!-- Touchpanel -->
     <string name="touchpanel_title">Сенсорная панель</string>
-    <string name="game_mode_title">Высокая сенсорная частота</string>
-    <string name="game_mode_summary">Повышение частоты опроса прикосновений для всех приложений</string>
-    <string name="game_mode_warning">Увеличивает энергопотребление</string>
-    <string name="edge_touch_title">Неограниченное касание краев</string>
-    <string name="edge_touch_summary">Улучшение работы мультитач в играх</string>
-    <string name="edge_touch_warning">Увеличивает вероятность случайного прикосновения</string>
+    <string name="game_mode_title">Высокая частота опроса сенсора</string>
+    <string name="game_mode_summary">Повысить частоту опроса сенсора для всех приложений до 240 Гц</string>
+    <string name="game_mode_warning">Увеличивает расход заряда батареи</string>
+    <string name="edge_touch_title">Неограниченное касание краёв экрана</string>
+    <string name="edge_touch_summary">Улучшить работу мультитач в играх</string>
+    <string name="edge_touch_warning">Увеличивает вероятность случайных нажатий</string>
     <!-- Unsupported feature -->
     <string name="unsupported_feature">Эта функция недоступна на текущем ядре</string>
     <!-- Vibration Strength -->
     <string name="category_vibrator">Вибрация</string>
     <string name="vib_strength_title_head">Сила вибрации</string>
-    <string name="vib_strength_summary_head">Выберите силу вибрации</string>
+    <string name="vib_strength_summary_head">Установите силу вибрации</string>
     <!-- Wireless Charger -->
     <string name="wireless_charger_category">Беспроводная зарядка</string>
     <string name="wireless_charger_quiet_mode_title">Тихий режим</string>
-    <string name="wireless_charger_quiet_mode_summary">Работа беспроводного зарядного устройства на низком уровне мощности для минимизации шума</string>
+    <string name="wireless_charger_quiet_mode_summary">Использовать беспроводное зарядное устройство на низком уровне мощности для минимизации шума</string>
     <string name="wireless_charger_quiet_mode_enable_title">Включить тихий режим</string>
     <string name="wireless_charger_settings_title">Настройки беспроводной зарядки</string>
     <string name="wireless_charger_quiet_mode_time">Когда включать</string>
     <string name="wireless_charger_quiet_mode_always">Всегда</string>
-    <string name="wireless_charger_quiet_mode_custom">Пользовательское</string>
+    <string name="wireless_charger_quiet_mode_custom">Пользовательский</string>
     <string name="wireless_charger_quiet_mode_disabled">Отключено</string>
     <string name="wireless_charger_quiet_mode_start">Время начала</string>
     <string name="wireless_charger_quiet_mode_end">Время окончания</string>
