@@ -226,15 +226,15 @@
     <string name="vib_strength_title_head">Stärke</string>
     <string name="vib_strength_summary_head">Definieren Sie die Stärke des Vibrationsmotors</string>
     <!-- Wireless Charger -->
-    <string name="wireless_charger_category">Wireless Charger</string>
-    <string name="wireless_charger_quiet_mode_title">Quiet mode</string>
-    <string name="wireless_charger_quiet_mode_summary">Run wireless charger at a low power level to minimise noise</string>
-    <string name="wireless_charger_quiet_mode_enable_title">Enable quiet mode</string>
-    <string name="wireless_charger_settings_title">Wireless charger settings</string>
-    <string name="wireless_charger_quiet_mode_time">When to enable</string>
-    <string name="wireless_charger_quiet_mode_always">Always</string>
-    <string name="wireless_charger_quiet_mode_custom">Custom</string>
-    <string name="wireless_charger_quiet_mode_disabled">Disabled</string>
-    <string name="wireless_charger_quiet_mode_start">Start time</string>
-    <string name="wireless_charger_quiet_mode_end">End time</string>
+    <string name="wireless_charger_category">Kabelloses Ladegerät</string>
+    <string name="wireless_charger_quiet_mode_title">Stiller Modus</string>
+    <string name="wireless_charger_quiet_mode_summary">Betreiben Sie das kabellose Ladegerät mit geringer Leistung, um die Geräuschentwicklung zu minimieren</string>
+    <string name="wireless_charger_quiet_mode_enable_title">Stiller Modus aktivieren</string>
+    <string name="wireless_charger_settings_title">Einstellungen für das kabellose Ladegerät</string>
+    <string name="wireless_charger_quiet_mode_time">Wann wird aktiviert</string>
+    <string name="wireless_charger_quiet_mode_always">Immer</string>
+    <string name="wireless_charger_quiet_mode_custom">Benutzerdefiniert</string>
+    <string name="wireless_charger_quiet_mode_disabled">Deaktiviert</string>
+    <string name="wireless_charger_quiet_mode_start">Startzeit</string>
+    <string name="wireless_charger_quiet_mode_end">Endzeit</string>
 </resources>

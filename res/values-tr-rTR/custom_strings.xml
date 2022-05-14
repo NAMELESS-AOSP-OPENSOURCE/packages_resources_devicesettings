@@ -226,15 +226,15 @@
     <string name="vib_strength_title_head">Kuvvet</string>
     <string name="vib_strength_summary_head">Titreşim motorunun gücünü tanımlayın</string>
     <!-- Wireless Charger -->
-    <string name="wireless_charger_category">Wireless Charger</string>
-    <string name="wireless_charger_quiet_mode_title">Quiet mode</string>
-    <string name="wireless_charger_quiet_mode_summary">Run wireless charger at a low power level to minimise noise</string>
-    <string name="wireless_charger_quiet_mode_enable_title">Enable quiet mode</string>
-    <string name="wireless_charger_settings_title">Wireless charger settings</string>
-    <string name="wireless_charger_quiet_mode_time">When to enable</string>
-    <string name="wireless_charger_quiet_mode_always">Always</string>
-    <string name="wireless_charger_quiet_mode_custom">Custom</string>
-    <string name="wireless_charger_quiet_mode_disabled">Disabled</string>
-    <string name="wireless_charger_quiet_mode_start">Start time</string>
-    <string name="wireless_charger_quiet_mode_end">End time</string>
+    <string name="wireless_charger_category">Kablosuz şarj cihazı</string>
+    <string name="wireless_charger_quiet_mode_title">Sessiz mod</string>
+    <string name="wireless_charger_quiet_mode_summary">Gürültüyü en aza indirmek için kablosuz şarj cihazını düşük güç seviyesinde çalıştırın</string>
+    <string name="wireless_charger_quiet_mode_enable_title">Sessiz modu etkinleştir</string>
+    <string name="wireless_charger_settings_title">Kablosuz şarj cihazı ayarları</string>
+    <string name="wireless_charger_quiet_mode_time">Ne zaman etkinleştirilir</string>
+    <string name="wireless_charger_quiet_mode_always">Her zaman</string>
+    <string name="wireless_charger_quiet_mode_custom">Özel</string>
+    <string name="wireless_charger_quiet_mode_disabled">Engelli</string>
+    <string name="wireless_charger_quiet_mode_start">Başlangıç ​​saati</string>
+    <string name="wireless_charger_quiet_mode_end">Bitiş zamanı</string>
 </resources>

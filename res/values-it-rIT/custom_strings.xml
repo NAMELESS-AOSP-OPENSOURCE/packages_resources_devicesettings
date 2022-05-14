@@ -226,15 +226,15 @@
     <string name="vib_strength_title_head">Forza</string>
     <string name="vib_strength_summary_head">Definisce la forza del motore della vibrazione</string>
     <!-- Wireless Charger -->
-    <string name="wireless_charger_category">Wireless Charger</string>
-    <string name="wireless_charger_quiet_mode_title">Quiet mode</string>
-    <string name="wireless_charger_quiet_mode_summary">Run wireless charger at a low power level to minimise noise</string>
-    <string name="wireless_charger_quiet_mode_enable_title">Enable quiet mode</string>
-    <string name="wireless_charger_settings_title">Wireless charger settings</string>
-    <string name="wireless_charger_quiet_mode_time">When to enable</string>
-    <string name="wireless_charger_quiet_mode_always">Always</string>
-    <string name="wireless_charger_quiet_mode_custom">Custom</string>
-    <string name="wireless_charger_quiet_mode_disabled">Disabled</string>
-    <string name="wireless_charger_quiet_mode_start">Start time</string>
-    <string name="wireless_charger_quiet_mode_end">End time</string>
+    <string name="wireless_charger_category">Ricarica Wireless</string>
+    <string name="wireless_charger_quiet_mode_title">Modalità silenziosa</string>
+    <string name="wireless_charger_quiet_mode_summary">Esegui il ricarica wireless a un livello di potenza basso per ridurre al minimo il rumore</string>
+    <string name="wireless_charger_quiet_mode_enable_title">Abilita la modalità silenziosa</string>
+    <string name="wireless_charger_settings_title">Impostazioni ricarica wireless</string>
+    <string name="wireless_charger_quiet_mode_time">Quando abilitare</string>
+    <string name="wireless_charger_quiet_mode_always">Sempre</string>
+    <string name="wireless_charger_quiet_mode_custom">Personalizzato</string>
+    <string name="wireless_charger_quiet_mode_disabled">Disabilitato</string>
+    <string name="wireless_charger_quiet_mode_start">Ora di inizio</string>
+    <string name="wireless_charger_quiet_mode_end">Ora di fine</string>
 </resources>
