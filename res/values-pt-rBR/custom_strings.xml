@@ -157,7 +157,7 @@
     <string name="slider_title">Slider de Som</string>
     <string name="mute_media_title">Deixar o volume da mídia mudo</string>
     <string name="mute_media_summary">Desativar volume da mídia quando o slider estiver no modo silencioso</string>
-    <string name="mute_media_warning">Isso apenas terá efeito para os altifalantes</string>
+    <string name="mute_media_warning">Isto afetará apenas os alto-falantes</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">Padrão</string>
