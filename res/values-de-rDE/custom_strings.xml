@@ -155,6 +155,9 @@
     <string name="wake_on_gesture_summary">Aktivieren Sie das Gerät, anstatt Benachrichtigungen bei Gestenereignissen zu senden</string>
     <!-- Alert Slider -->
     <string name="slider_title">Alert Slider</string>
+    <string name="tri_state_key_calibration_title">Kalibrierung einschalten</string>
+    <string name="tri_state_key_calibration_summary">Persistente Kalibrierungsdaten für Alarmschieber verwenden</string>
+    <string name="tri_state_key_calibration_info">Schalten Sie diese Option nur dann ein, wenn Sie Probleme mit dem Schieberegler für die Benachrichtigung haben.\nMöglicherweise müssen Sie den Ruftonmodus nach dem Umschalten zurücksetzen.</string>
     <string name="mute_media_title">Medienlautstärke stummschalten</string>
     <string name="mute_media_summary">Schalten Sie die Medienlautstärke aus, wenn der Alarm-Schieberegler auf lautlos eingestellt ist</string>
     <string name="mute_media_warning">Dies gilt nur für Lautsprecher</string>
@@ -237,4 +240,7 @@
     <string name="wireless_charger_quiet_mode_disabled">Deaktiviert</string>
     <string name="wireless_charger_quiet_mode_start">Startzeit</string>
     <string name="wireless_charger_quiet_mode_end">Endzeit</string>
+    <!-- QS tile -->
+    <string name="qs_tile_status_off">Aus</string>
+    <string name="qs_tile_status_on">An</string>
 </resources>

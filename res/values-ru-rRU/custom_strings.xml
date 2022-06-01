@@ -155,6 +155,9 @@
     <string name="wake_on_gesture_summary">Пробуждение устройства вместо показа уведомлений при использовании жестов</string>
     <!-- Alert Slider -->
     <string name="slider_title">Ползунок оповещений</string>
+    <string name="tri_state_key_calibration_title">Включить калибровку</string>
+    <string name="tri_state_key_calibration_summary">Используйте сохраняемые данные калибровки для переключателя звука</string>
+    <string name="tri_state_key_calibration_info">Переключайте это только в том случае, если у вас есть проблемы с переключателем звука.\n Возможно, вам придется сбросить режим после переключения этого переключателя.</string>
     <string name="mute_media_title">Отключение громкости мультимедиа</string>
     <string name="mute_media_summary">Отключить громкость мультимедиа, если ползунок оповещений установлен в положение \"Без звука\"</string>
     <string name="mute_media_warning">Это повлияет только на динамик</string>
@@ -237,4 +240,7 @@
     <string name="wireless_charger_quiet_mode_disabled">Отключено</string>
     <string name="wireless_charger_quiet_mode_start">Время начала</string>
     <string name="wireless_charger_quiet_mode_end">Время окончания</string>
+    <!-- QS tile -->
+    <string name="qs_tile_status_off">Откл</string>
+    <string name="qs_tile_status_on">Вкл</string>
 </resources>

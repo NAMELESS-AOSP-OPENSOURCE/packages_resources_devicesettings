@@ -155,6 +155,9 @@
     <string name="wake_on_gesture_summary">通过手势事件唤醒设备而不是推送通知</string>
     <!-- Alert Slider -->
     <string name="slider_title">三段式开关</string>
+    <string name="tri_state_key_calibration_title">启用校准</string>
+    <string name="tri_state_key_calibration_summary">为三段式开关使用校准后的传感器数据</string>
+    <string name="tri_state_key_calibration_info">仅当三段式开关不正常工作时切换此选项\n切换后你可能需要重新设置响铃模式</string>
     <string name="mute_media_title">静音媒体音量</string>
     <string name="mute_media_summary">切换到静音模式时，将媒体音量设为静音</string>
     <string name="mute_media_warning">此功能仅对扬声器有效</string>
@@ -237,4 +240,7 @@
     <string name="wireless_charger_quiet_mode_disabled">已禁用</string>
     <string name="wireless_charger_quiet_mode_start">开始时间</string>
     <string name="wireless_charger_quiet_mode_end">结束时间</string>
+    <!-- QS tile -->
+    <string name="qs_tile_status_off">已关闭</string>
+    <string name="qs_tile_status_on">已开启</string>
 </resources>

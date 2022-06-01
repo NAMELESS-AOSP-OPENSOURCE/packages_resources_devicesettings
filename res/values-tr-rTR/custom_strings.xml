@@ -20,7 +20,7 @@
     <!-- Device specific settings -->
     <string name="device_settings_app_name">Gelişmiş Ayarlar</string>
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">Mimik</string>
+    <string name="screen_gestures_panel_title">Kaydırma</string>
     <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Ekstralar</string>
     <string name="touchscreen_gesture_haptic_feedback">Dokunsal geribildirim</string>
@@ -155,6 +155,10 @@
     <string name="wake_on_gesture_summary">Hareket olaylarında bildirimleri titreştirmek yerine cihazı uyandırın</string>
     <!-- Alert Slider -->
     <string name="slider_title">Uyarı Kaydırıcısı</string>
+    <string name="tri_state_key_calibration_title">Kalibrasyonu etkinleştir</string>
+    <string name="tri_state_key_calibration_summary">Uyarı kaydırıcısı için kalıcı kalibrasyon verilerini kullanın</string>
+    <string name="tri_state_key_calibration_info">Bunu yalnızca uyarı kaydırma anahtarıyla ilgili bir sorununuz olduğunda değiştirin.\Bunu değiştirdikten sonra zil sesini sıfırlamanız gerekebilir.
+ İçerik TAalebi</string>
     <string name="mute_media_title">Medya sesini kapat</string>
     <string name="mute_media_summary">Uyarı kaydırıcısı sessiz olarak ayarlandığında medya sesini kapatın</string>
     <string name="mute_media_warning">Bu yalnızca konuşmacı için geçerli olacaktır</string>
@@ -237,4 +241,7 @@
     <string name="wireless_charger_quiet_mode_disabled">Engelli</string>
     <string name="wireless_charger_quiet_mode_start">Başlangıç ​​saati</string>
     <string name="wireless_charger_quiet_mode_end">Bitiş zamanı</string>
+    <!-- QS tile -->
+    <string name="qs_tile_status_off">Kapat</string>
+    <string name="qs_tile_status_on">Aç</string>
 </resources>

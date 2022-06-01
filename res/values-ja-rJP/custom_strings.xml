@@ -155,6 +155,9 @@
     <string name="wake_on_gesture_summary">ジェスチャーイベントで通知を点滅させる代わりに端末を復帰させる</string>
     <!-- Alert Slider -->
     <string name="slider_title">Alert Slider</string>
+    <string name="tri_state_key_calibration_title">調整を有効化</string>
+    <string name="tri_state_key_calibration_summary">アラートスライダーに保持調節データを使用する</string>
+    <string name="tri_state_key_calibration_info">アラートスライダースイッチに問題がある場合のみここを切り替えて下さい。\n設定切り替え後は着信モードの再設定が必要になる可能性があります。</string>
     <string name="mute_media_title">メディア音量を無音化</string>
     <string name="mute_media_summary">Alert Slider がサイレントに設定されたらメディア音量を消す</string>
     <string name="mute_media_warning">スピーカーにのみ動作します</string>
@@ -237,4 +240,7 @@
     <string name="wireless_charger_quiet_mode_disabled">無効</string>
     <string name="wireless_charger_quiet_mode_start">開始時刻</string>
     <string name="wireless_charger_quiet_mode_end">終了時刻</string>
+    <!-- QS tile -->
+    <string name="qs_tile_status_off">OFF</string>
+    <string name="qs_tile_status_on">ON</string>
 </resources>

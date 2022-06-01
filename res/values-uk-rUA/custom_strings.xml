@@ -18,223 +18,229 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Advanced settings</string>
+    <string name="device_settings_app_name">Розширені налаштування</string>
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">Gestures</string>
+    <string name="screen_gestures_panel_title">Жести</string>
     <!-- Touchscreen gesture haptic feedback -->
-    <string name="touchscreen_gesture_extras">Extras</string>
-    <string name="touchscreen_gesture_haptic_feedback">Haptic feedback</string>
-    <string name="touchscreen_gesture_haptic_feedback_summary">Vibrate when a touchscreen gesture is detected</string>
+    <string name="touchscreen_gesture_extras">Інше</string>
+    <string name="touchscreen_gesture_haptic_feedback">Тактильна віддача</string>
+    <string name="touchscreen_gesture_haptic_feedback_summary">Вібрація при розпізнаванні жесту</string>
     <!-- Touchscreen gestures -->
-    <string name="touchscreen_gesture_settings_title">Touchscreen gestures</string>
-    <string name="touchscreen_gesture_settings_summary">Perform various touchscreen gestures for quick actions</string>
-    <string name="gesture_display_title">Screen off gestures</string>
-    <string name="touchscreen_c_gesture_title">Camera</string>
-    <string name="touchscreen_c_gesture_summary">Draw a \"C\" to activate camera</string>
-    <string name="touchscreen_e_gesture_title">Email</string>
-    <string name="touchscreen_e_gesture_summary">Draw an \"e\" to open the email app</string>
-    <string name="touchscreen_m_gesture_title">Messaging</string>
-    <string name="touchscreen_m_gesture_summary">Draw a \"M\" to open the messaging app</string>
-    <string name="touchscreen_s_gesture_title">Messaging</string>
-    <string name="touchscreen_s_gesture_summary">Draw an \"S\" to open the messaging app</string>
-    <string name="touchscreen_v_gesture_title">Dialer</string>
-    <string name="touchscreen_v_gesture_summary">Draw a \"V\" to open the dialer app</string>
-    <string name="touchscreen_w_gesture_title">Browser</string>
-    <string name="touchscreen_w_gesture_summary">Draw a \"W\" to open the browser app</string>
-    <string name="touchscreen_z_gesture_title">Flashlight</string>
-    <string name="touchscreen_z_gesture_summary">Draw a \"Z\" to toggle flashlight</string>
-    <string name="touchscreen_flashlight_gesture_title">Flashlight</string>
-    <string name="touchscreen_flashlight_gesture_summary">Draw a circle to toggle flashlight</string>
-    <string name="touchscreen_music_gesture_title">Music</string>
-    <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
-    • Swipe down to play/pause\n
-    • Swipe left for previous track\n
-    • Swipe right for next track</string>
-    <string name="touchscreen_swipe_up_title">Swipe up</string>
-    <string name="touchscreen_swipe_right_title">Swipe right</string>
-    <string name="touchscreen_swipe_down_title">Swipe down</string>
-    <string name="touchscreen_swipe_left_title">Swipe left</string>
+    <string name="touchscreen_gesture_settings_title">Жести сенсорного екрану</string>
+    <string name="touchscreen_gesture_settings_summary">Налаштування жестів сенсорного екрана для виконання дій</string>
+    <string name="gesture_display_title">Жести при вимкненому екрані</string>
+    <string name="touchscreen_c_gesture_title">Камера</string>
+    <string name="touchscreen_c_gesture_summary">Намалюйте «С» щоб відкрити камеру</string>
+    <string name="touchscreen_e_gesture_title">Елект. пошта</string>
+    <string name="touchscreen_e_gesture_summary">Намалюйте «e», щоб відкрити додаток електронної пошти</string>
+    <string name="touchscreen_m_gesture_title">Повідомлення</string>
+    <string name="touchscreen_m_gesture_summary">Намалюйте «M», щоб відкрити додаток обміну повідомленнями</string>
+    <string name="touchscreen_s_gesture_title">Повідомлення</string>
+    <string name="touchscreen_s_gesture_summary">Намалюйте «S», щоб відкрити додаток обміну повідомленнями</string>
+    <string name="touchscreen_v_gesture_title">Телефон</string>
+    <string name="touchscreen_v_gesture_summary">Намалюйте «V», щоб відкрити телефон</string>
+    <string name="touchscreen_w_gesture_title">Браузер</string>
+    <string name="touchscreen_w_gesture_summary">Намалюйте «W», щоб відкрити браузер</string>
+    <string name="touchscreen_z_gesture_title">Ліхтарик</string>
+    <string name="touchscreen_z_gesture_summary">Намалюйте «Z», щоб увімкнути або вимкнути ліхтарик</string>
+    <string name="touchscreen_flashlight_gesture_title">Ліхтарик</string>
+    <string name="touchscreen_flashlight_gesture_summary">Намалюйте коло, щоб увімкнути або вимкнути ліхтарик</string>
+    <string name="touchscreen_music_gesture_title">Музика</string>
+    <string name="touchscreen_music_gesture_summary">Використання жестів для керування музикою:\n
+     • Свайп вниз — відтворення/пауза\n
+     • Свайп ліворуч — попередній трек\n
+     • Свайп праворуч – наступний трек</string>
+    <string name="touchscreen_swipe_up_title">Свайп вверх</string>
+    <string name="touchscreen_swipe_right_title">Свайп вправо</string>
+    <string name="touchscreen_swipe_down_title">Свайп вниз</string>
+    <string name="touchscreen_swipe_left_title">Свайп вліво</string>
     <!-- User-aware display -->
-    <string name="user_aware_display_title">User-aware display</string>
-    <string name="user_aware_display_summary">Keep the screen on while a user is in front of the display</string>
+    <string name="user_aware_display_title">Інтелектуальне вимк. екрану</string>
+    <string name="user_aware_display_summary">Не вимикати екран, поки ви дивитеся на нього</string>
     <!-- Ambient Display -->
-    <string name="ambient_display_title">Ambient display</string>
-    <string name="ambient_display_enable_title">Use ambient display</string>
-    <string name="ambient_display_enable_summary">Wake screen when you receive notifications</string>
-    <string name="ambient_display_gestures_title">Ambient display gestures</string>
-    <string name="ambient_display_gestures_summary">Additional gestures to wake the screen</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
-    <string name="ambient_display_summary_on">Screen will wake when you receive notifications</string>
-    <string name="ambient_display_summary_off">Screen will not wake when you receive notifications</string>
-    <string name="ambient_display_always_on_title">Always on</string>
-    <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
+    <string name="ambient_display_title">Індикація подій</string>
+    <string name="ambient_display_enable_title">Індикація подій</string>
+    <string name="ambient_display_enable_summary">Увімкнення екрана при отриманні повідомлень</string>
+    <string name="ambient_display_gestures_title">Жести Ambient Display</string>
+    <string name="ambient_display_gestures_summary">Додаткові жести для пробудження екрану</string>
+    <string name="ambient_display_summary">Увімкнення екрана при отриманні сповіщень</string>
+    <string name="ambient_display_summary_on">Вмикати екран при отриманні повідомлень</string>
+    <string name="ambient_display_summary_off">Не вмикати екран при отриманні повідомлень</string>
+    <string name="ambient_display_always_on_title">Завжди включений</string>
+    <string name="ambient_display_always_on_summary">Показувати час, піктограми повідомлень та іншу інформацію. Збільшує витрати заряду акумулятора.</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
+    <string name="tilt_sensor_title">Датчик нахилу</string>
     <!-- Pickup sensor -->
-    <string name="pickup_sensor_title">Pickup sensor</string>
+    <string name="pickup_sensor_title">Датчик підняття</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
+    <string name="proximity_sensor_title">Датчик наближення</string>
     <!-- Hand wave gesture -->
-    <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="hand_wave_gesture_flat_title">Detect orientation</string>
-    <string name="hand_wave_gesture_flat_summary">Pulse only if the phone is lying face up on a flat surface</string>
+    <string name="hand_wave_gesture_title">Помах рукою</string>
+    <string name="hand_wave_gesture_summary">Відображати сповіщення при взмахуванні рукою</string>
+    <string name="hand_wave_gesture_flat_title">Враховувати положення пристрою</string>
+    <string name="hand_wave_gesture_flat_summary">Пульсувати, лише якщо телефон лежить екраном догори на горизонтальній поверхні</string>
     <!-- Pick-up gesture -->
-    <string name="pick_up_gesture_title">Pick-up</string>
-    <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
-    <string name="pick_up_wake_gesture_summary">Wake device on pick-up</string>
+    <string name="pick_up_gesture_title">Підняття</string>
+    <string name="pick_up_gesture_summary">Відображати сповіщення під час піднімання пристрою</string>
+    <string name="pick_up_wake_gesture_summary">Пробуджувати пристрій під час підняття</string>
     <!-- Pocket gesture -->
-    <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+    <string name="pocket_gesture_title">Кишеня</string>
+    <string name="pocket_gesture_summary">Відображати повідомлення під час виймання пристрою з кишені</string>
     <!-- Proximity wake -->
-    <string name="proximity_wake_title">Proximity wake</string>
-    <string name="proximity_wake_enable_title">Proximity wake</string>
-    <string name="proximity_wake_enable_summary">Wake device on hand wave</string>
+    <string name="proximity_wake_title">Пробудження по датчику наближення</string>
+    <string name="proximity_wake_enable_title">Пробудження по датчику наближення</string>
+    <string name="proximity_wake_enable_summary">Проведіть долонею над екраном, щоб пробудити пристрій</string>
     <!-- Device actions -->
-    <string name="actions_title">Actions</string>
+    <string name="actions_title">Дії</string>
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">Double-twist</string>
-    <string name="camera_gesture_summary">Open camera when using the double twist gesture</string>
+    <string name="camera_gesture_title">Обертання</string>
+    <string name="camera_gesture_summary">Запускати камеру під час обертання пристрою</string>
     <!-- Chop-chop gesture -->
-    <string name="chop_chop_gesture_title">Chop-chop</string>
-    <string name="chop_chop_gesture_summary">Toggle flashlight when using the chop-chop gesture</string>
+    <string name="chop_chop_gesture_title">Струшування</string>
+    <string name="chop_chop_gesture_summary">Вмикати або вимикати ліхтарик під час струшування</string>
     <!-- Hand wave silencer gesture -->
-    <string name="hand_wave_silencer_title">Wave to silence</string>
-    <string name="hand_wave_silencer_summary">Silence incoming calls by waving your hand across the screen</string>
+    <string name="hand_wave_silencer_title">Провести долонею для відключення звуку</string>
+    <string name="hand_wave_silencer_summary">Проведіть рукою над екраном, щоб приглушити звук дзвінків</string>
     <!-- Flip to mute gesture -->
-    <string name="flip_to_mute_title">Flip for Do Not Disturb</string>
-    <string name="flip_to_mute_summary">Place the phone face down to silence notifications and calls</string>
+    <string name="flip_to_mute_title">Перевернути для увімкнення режиму \"Не турбувати\"</string>
+    <string name="flip_to_mute_summary">Переверніть телефон екраном вниз, щоб вимкнути звуки сповіщень та дзвінків</string>
     <!-- Do Not Disturb access -->
-    <string name="dnd_access">Please, give Do Not Disturb access to CMActions in order to use this feature.</string>
+    <string name="dnd_access">Для використання цієї можливості надайте режиму \"Не турбувати\" доступ до CMActions.</string>
     <!-- Lift to silence gesture -->
-    <string name="lift_to_silence_title">Pick up to stop ringing</string>
-    <string name="lift_to_silence_summary">Lift the phone to silence incoming calls. It only works when your phone starts flat</string>
+    <string name="lift_to_silence_title">Підняття для вимкнення звуку дзвінка</string>
+    <string name="lift_to_silence_summary">Підніміть телефон, щоб заглушити звук дзвінка. Ця дія спрацює, якщо телефон лежав горизонтально</string>
     <!-- Action toggles -->
-    <string name="action_none">Disable</string>
-    <string name="action_launch_camera">Launch camera</string>
-    <string name="action_torch">Toggle torch</string>
+    <string name="action_none">Вимкнути</string>
+    <string name="action_launch_camera">Запуск камери</string>
+    <string name="action_torch">Увімкнути/вимкнути ліхтарик</string>
     <!-- Feedback intensity -->
-    <string name="feedback_intensity_title">Haptic feedback intensity</string>
-    <string name="feedback_intensity_summary">Strength of the haptic feedback for the double-twist and chop-chop actions</string>
-    <string name="feedback_intensity_none">Disabled</string>
-    <string name="feedback_intensity_low">Low</string>
-    <string name="feedback_intensity_medium">Medium</string>
-    <string name="feedback_intensity_high">High</string>
+    <string name="feedback_intensity_title">Інтенсивність тактильної віддачі</string>
+    <string name="feedback_intensity_summary">Налаштування сили вібровідгуку для жестів обертання та струшування</string>
+    <string name="feedback_intensity_none">Вимкнено</string>
+    <string name="feedback_intensity_low">Низька</string>
+    <string name="feedback_intensity_medium">Середня</string>
+    <string name="feedback_intensity_high">Висока</string>
     <!-- Dialog texts -->
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">ОК</string>
     <!-- Generic texts -->
-    <string name="disabled">Disabled</string>
+    <string name="disabled">Вимкнено</string>
     <!-- Help texts -->
-    <string name="doze_settings_help_title">Help</string>
-    <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
+    <string name="doze_settings_help_title">Допомога</string>
+    <string name="doze_settings_help_text">Ці функції використовують датчики для відображення сповіщень. Вибраний датчик увімкнеться лише при надходженні нового повідомлення, що допомагає заощадити заряд акумулятора. Також можна активувати увімкнення датчика відразу після вимкнення екрана пристрою, однак це призведе до збільшення витрат акумулятора.</string>
     <!-- Button settings -->
-    <string name="button_panel_title">Additional buttons</string>
-    <string name="button_swap_title">Swap buttons</string>
-    <string name="button_swap_summary">Swap the order of recents and back buttons</string>
+    <string name="button_panel_title">Додаткові кнопки</string>
+    <string name="button_swap_title">Поміняти кнопки місцями</string>
+    <string name="button_swap_summary">Поміняти місцями кнопки «Огляд» та «Назад»</string>
     <!-- Fingerprint -->
-    <string name="fingerprint_title">Fingerprint</string>
-    <string name="fingerprint_as_home_title">Fingerprint as home</string>
-    <string name="fingerprint_as_home_summary">Use the fingerprint sensor as a home button</string>
-    <string name="fingerprint_wakeup_title">Fingerprint wake-up</string>
-    <string name="fingerprint_wakeup_summary">Allow the fingerprint sensor to wake the device while the screen is off</string>
-    <string name="fingerprint_pocketmode_title">Prevent accidental wake-up</string>
-    <string name="fingerprint_pocketmode_summary">Check the proximity sensor prior to wake-ups triggered by the fingerprint sensor</string>
-    <string name="fingerprint_sleep_title">Fingerprint sleep</string>
-    <string name="fingerprint_sleep_summary">Press the fingerprint sensor to turn off the screen</string>
+    <string name="fingerprint_title">Відбиток пальця</string>
+    <string name="fingerprint_as_home_title">Перехід на головний екран</string>
+    <string name="fingerprint_as_home_summary">Використовувати сканер відбитків пальців як кнопку «Додому»</string>
+    <string name="fingerprint_wakeup_title">Вихід із режиму сну</string>
+    <string name="fingerprint_wakeup_summary">Вмикати екран під час торкання датчика відбитків пальців</string>
+    <string name="fingerprint_pocketmode_title">Запобігати випадковому пробудженню</string>
+    <string name="fingerprint_pocketmode_summary">Перевіряти датчик наближення при виході з режиму сну за допомогою відбитка пальця</string>
+    <string name="fingerprint_sleep_title">Відключення екрана відбитком пальця</string>
+    <string name="fingerprint_sleep_summary">Натисніть на сканер відбитка пальця, щоб вимкнути екран</string>
     <!-- High touch sensitivity -->
-    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
-    <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
+    <string name="high_touch_sensitivity_title">Висока чутливість до дотиків</string>
+    <string name="high_touch_sensitivity_summary">Збільшити чутливість сенсорного екрану, щоб його можна було використовувати в рукавичках</string>
     <!-- Quick charge toggle -->
-    <string name="quick_charge_title">Quick charge</string>
-    <string name="quick_charge_summary">Toggle quick charge. Unplug and replug the charger after changing this setting</string>
+    <string name="quick_charge_title">Швидка зарядка</string>
+    <string name="quick_charge_summary">Перемкнути швидку зарядку. Після зміни цього параметра від’єднайте та підключіть зарядний пристрій</string>
     <!-- Camera focus fix toggle -->
-    <string name="camera_focus_fix_title">Camera focus fix</string>
-    <string name="camera_focus_fix_summary">Enable if you have issues with the camera not focusing</string>
+    <string name="camera_focus_fix_title">Виправити фокусування камери</string>
+    <string name="camera_focus_fix_summary">Увімкніть, якщо у вас виникли проблеми з фокусуванням камери</string>
     <!-- Wake on gesture -->
-    <string name="wake_on_gesture_title">Wake up on gestures</string>
-    <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+    <string name="wake_on_gesture_title">Пробудження жестами</string>
+    <string name="wake_on_gesture_summary">Пробудження пристрою замість показу повідомлень під час використання жестів</string>
     <!-- Alert Slider -->
-    <string name="slider_title">Alert Slider</string>
-    <string name="mute_media_title">Mute media volume</string>
-    <string name="mute_media_summary">Turn off media volume when the alert slider is set to silent</string>
-    <string name="mute_media_warning">This will only take effect for speaker</string>
+    <string name="slider_title">Повзунок сповіщень</string>
+    <string name="tri_state_key_calibration_title">Увімкнути калібрування</string>
+    <string name="tri_state_key_calibration_summary">Використовуйте дані калібрування, що зберігаються, для перемикача звуку</string>
+    <string name="tri_state_key_calibration_info">Перемикайте це лише в тому випадку, якщо у вас є проблеми з перемикачем звуку.\n Можливо, вам доведеться скинути режим після перемикання цього перемикача.</string>
+    <string name="mute_media_title">Вимкнути гучність медіа</string>
+    <string name="mute_media_summary">Вимкнути гучність медіа, якщо повзунок оповіщень встановлено в положення \"Без звуку\"</string>
+    <string name="mute_media_warning">Це вплине лише на динамік</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Значення: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">За замовчуванням</string>
+    <string name="custom_seekbar_default_value_to_set">Значення за замовчуванням: <xliff:g id="v">%s</xliff:g>\nДовго натисніть, щоб встановити</string>
+    <string name="custom_seekbar_default_value_is_set">Встановлено значення за замовчуванням</string>
     <!-- Device Settings -->
-    <string name="device_title">OnePlus Settings</string>
-    <string name="device_summary">Adjust OnePlus specific device settings</string>
+    <string name="device_title">Налаштування OnePlus</string>
+    <string name="device_summary">Налаштування параметрів пристрою OnePlus</string>
     <!-- Display Modes -->
-    <string name="display_title">Display Modes</string>
-    <string name="hbm_mode_summary">Instantly enable the peak luminance of the display</string>
-    <string name="hbm_mode_title">High brightness</string>
-    <string name="auto_hbm_summary">Enable peak luminance based on sunlight</string>
-    <string name="auto_hbm_title">Automatic High brightness</string>
-    <string name="auto_hbm_threshold_title">Automatic High brightness threshold (lux)</string>
-    <string name="auto_hbm_threshold_summary">Adjust peak luminance of the display </string>
-    <string name="tile_hbm_mode">High brightness</string>
-    <string name="dc_mode_summary">Dim backlight by adjusting DC current drawn to the display</string>
+    <string name="display_title">Режими екрану</string>
+    <string name="hbm_mode_summary">Миттєве увімкнення максимальної яскравості екрану</string>
+    <string name="hbm_mode_title">Висока яскравість</string>
+    <string name="auto_hbm_summary">Включити пікову яскравість на сонячному світлі</string>
+    <string name="auto_hbm_title">Автоматична висока яскравість</string>
+    <string name="auto_hbm_threshold_title">Автоматичний високий поріг яскравості (люкс)</string>
+    <string name="auto_hbm_threshold_summary">Налаштування порога освітлення (люкс) для увімкнення автоматичного режиму високої яскравості </string>
+    <string name="tile_hbm_mode">Висока яскравість</string>
+    <string name="dc_mode_summary">Регулювання яскравості екрана шляхом зміни потужності струму, що подається на дисплей</string>
     <string name="dc_mode_title">DC Dimming</string>
     <!-- Dolby -->
     <string name="dolby_category">Dolby</string>
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Configure the audio output based on media content</string>
+    <string name="dolby_summary">Налаштування параметрів аудіовиходу на основі медіаконтенту</string>
     <!-- Doze -->
     <string name="doze_panel_title">Doze</string>
     <!-- FPS Info -->
-    <string name="fps_title">FPS Info</string>
-    <string name="fps_info_title">FPS Overlay</string>
-    <string name="fps_info_summary">Show overlay with current frames per second</string>
-    <string name="fps_info_color_title">Text Color</string>
-    <string name="fps_info_color_green">Green</string>
-    <string name="fps_info_color_red">Red</string>
-    <string name="fps_info_color_blue">Blue</string>
-    <string name="fps_info_color_yellow">Yellow</string>
-    <string name="fps_info_color_black">Black</string>
-    <string name="fps_info_color_accent">Follow System</string>
-    <string name="fps_info_position_title">Overlay Position</string>
-    <string name="fps_info_position_top_left">Top left</string>
-    <string name="fps_info_position_top_center">Top center</string>
-    <string name="fps_info_position_top_right">Top right</string>
-    <string name="fps_info_position_bottom_left">Bottom left</string>
-    <string name="fps_info_position_bottom_center">Bottom center</string>
-    <string name="fps_info_position_bottom_right">Bottom right</string>
-    <string name="fps_info_text_size_title">Text Size</string>
+    <string name="fps_title">Інформація про FPS</string>
+    <string name="fps_info_title">Накладання FPS</string>
+    <string name="fps_info_summary">Додати накладання з поточними кадрами в секунду поверх додатків</string>
+    <string name="fps_info_color_title">Колір Тексту</string>
+    <string name="fps_info_color_green">Зелений</string>
+    <string name="fps_info_color_red">Червоний</string>
+    <string name="fps_info_color_blue">Синій</string>
+    <string name="fps_info_color_yellow">Жовтий</string>
+    <string name="fps_info_color_black">Чорний</string>
+    <string name="fps_info_color_accent">Слідувати системі</string>
+    <string name="fps_info_position_title">Позиція Накладання</string>
+    <string name="fps_info_position_top_left">Зверху зліва</string>
+    <string name="fps_info_position_top_center">Зверху по центру</string>
+    <string name="fps_info_position_top_right">Зверху зправа</string>
+    <string name="fps_info_position_bottom_left">Знизу зліва</string>
+    <string name="fps_info_position_bottom_center">Знизу по центру</string>
+    <string name="fps_info_position_bottom_right">Знизу зправа</string>
+    <string name="fps_info_text_size_title">Розмір Тексту</string>
     <!-- Network -->
-    <string name="network_title">Network</string>
-    <string name="nr_mode_switcher_title">5G Modes Switcher</string>
-    <string name="nsa_only">NSA Only</string>
-    <string name="sa_only">SA Only</string>
+    <string name="network_title">Мережа</string>
+    <string name="nr_mode_switcher_title">Перемикач режимів 5G</string>
+    <string name="nsa_only">Тільки NSA</string>
+    <string name="sa_only">Тільки SA</string>
     <string name="nsa_sa">NSA + SA</string>
-    <string name="nr_mode_switcher_warning">Please set again after reboot/changed data sim card</string>
-    <string name="service_not_ready">Service not ready, please try again</string>
-    <string name="unavailable_sim_slot">Unable to get current mobile data slot, please try again</string>
+    <string name="nr_mode_switcher_warning">Будь ласка, налаштуйте ще раз після перезавантаження/зміни Sim-карти даних</string>
+    <string name="service_not_ready">Сервіс не готовий, спробуйте ще раз</string>
+    <string name="unavailable_sim_slot">Неможливо встановити поточний слот мобільних даних, будь ласка, спробуйте ще раз</string>
     <!-- Touchpanel -->
-    <string name="touchpanel_title">Touchpanel</string>
-    <string name="game_mode_title">High touch sample</string>
-    <string name="game_mode_summary">Boost touch sampling rate for all applications</string>
-    <string name="game_mode_warning">Increases power consumption</string>
-    <string name="edge_touch_title">Unlimit edge touch</string>
-    <string name="edge_touch_summary">Improve multi-touch experience in games</string>
-    <string name="edge_touch_warning">Increases possibility of accidental touch</string>
+    <string name="touchpanel_title">Сенсорна панель</string>
+    <string name="game_mode_title">Висока частота опитування сенсора</string>
+    <string name="game_mode_summary">Підвищити частоту опитування сенсора для всіх додатків до 240 Гц</string>
+    <string name="game_mode_warning">Збільшує споживання електроенергії</string>
+    <string name="edge_touch_title">Необмежений дотик країв</string>
+    <string name="edge_touch_summary">Покращує мультитач в іграх</string>
+    <string name="edge_touch_warning">Збільшує ймовірність випадкового дотику</string>
     <!-- Unsupported feature -->
-    <string name="unsupported_feature">This feature is unavailable on current kernel</string>
+    <string name="unsupported_feature">Ця функція недоступна на поточному ядрі</string>
     <!-- Vibration Strength -->
-    <string name="category_vibrator">Vibrator</string>
-    <string name="vib_strength_title_head">Strength</string>
-    <string name="vib_strength_summary_head">Define the strength of the vibration motor</string>
+    <string name="category_vibrator">Сила Вібрації</string>
+    <string name="vib_strength_title_head">Сила</string>
+    <string name="vib_strength_summary_head">Обрати силу вібро-віддачі</string>
     <!-- Wireless Charger -->
-    <string name="wireless_charger_category">Wireless Charger</string>
-    <string name="wireless_charger_quiet_mode_title">Quiet mode</string>
-    <string name="wireless_charger_quiet_mode_summary">Run wireless charger at a low power level to minimise noise</string>
-    <string name="wireless_charger_quiet_mode_enable_title">Enable quiet mode</string>
-    <string name="wireless_charger_settings_title">Wireless charger settings</string>
-    <string name="wireless_charger_quiet_mode_time">When to enable</string>
-    <string name="wireless_charger_quiet_mode_always">Always</string>
-    <string name="wireless_charger_quiet_mode_custom">Custom</string>
-    <string name="wireless_charger_quiet_mode_disabled">Disabled</string>
-    <string name="wireless_charger_quiet_mode_start">Start time</string>
-    <string name="wireless_charger_quiet_mode_end">End time</string>
+    <string name="wireless_charger_category">Безпровідна Зарядка</string>
+    <string name="wireless_charger_quiet_mode_title">Режим тиші</string>
+    <string name="wireless_charger_quiet_mode_summary">Запускати бездротовий зарядний пристрій на низькому рівні потужності, щоб мінімізувати шум</string>
+    <string name="wireless_charger_quiet_mode_enable_title">Увімкнути режим тиші</string>
+    <string name="wireless_charger_settings_title">Налаштування безпровідної зарядки</string>
+    <string name="wireless_charger_quiet_mode_time">Коли вмикати</string>
+    <string name="wireless_charger_quiet_mode_always">Завжди</string>
+    <string name="wireless_charger_quiet_mode_custom">Користувацький</string>
+    <string name="wireless_charger_quiet_mode_disabled">Вимкнено</string>
+    <string name="wireless_charger_quiet_mode_start">Час початку</string>
+    <string name="wireless_charger_quiet_mode_end">Час закінчення</string>
+    <!-- QS tile -->
+    <string name="qs_tile_status_off">Вимк.</string>
+    <string name="qs_tile_status_on">Увімк.</string>
 </resources>

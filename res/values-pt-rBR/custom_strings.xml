@@ -155,6 +155,9 @@
     <string name="wake_on_gesture_summary">Despertar o celular em vez de pulsar as notificações com os gestos</string>
     <!-- Alert Slider -->
     <string name="slider_title">Slider de Som</string>
+    <string name="tri_state_key_calibration_title">Ativar calibração</string>
+    <string name="tri_state_key_calibration_summary">Use dados de calibração persistentes para o slider de modo de som</string>
+    <string name="tri_state_key_calibration_info">Ative esta opção apenas quando estiver com problemas no slider de som.\nVocê pode acabar precisando reiniciar o modo de som após a ativação.</string>
     <string name="mute_media_title">Deixar o volume da mídia mudo</string>
     <string name="mute_media_summary">Desativar volume da mídia quando o slider estiver no modo silencioso</string>
     <string name="mute_media_warning">Isto afetará apenas os alto-falantes</string>
@@ -237,4 +240,7 @@
     <string name="wireless_charger_quiet_mode_disabled">Desativado</string>
     <string name="wireless_charger_quiet_mode_start">Quando começar</string>
     <string name="wireless_charger_quiet_mode_end">Quando terminar</string>
+    <!-- QS tile -->
+    <string name="qs_tile_status_off">Desligado</string>
+    <string name="qs_tile_status_on">Ligado</string>
 </resources>

@@ -155,6 +155,9 @@
     <string name="wake_on_gesture_summary">Acordar o dispositivo em vez de mostrar as notificações ao usar os gestos</string>
     <!-- Alert Slider -->
     <string name="slider_title">Alert Slider</string>
+    <string name="tri_state_key_calibration_title">Enable calibration</string>
+    <string name="tri_state_key_calibration_summary">Use persist calibration data for alert slider</string>
+    <string name="tri_state_key_calibration_info">Toggle this only when you have issue with alert slider switch.\nYou may need to reset ringer mode after toggling this.</string>
     <string name="mute_media_title">Mute media volume</string>
     <string name="mute_media_summary">Turn off media volume when the alert slider is set to silent</string>
     <string name="mute_media_warning">This will only take effect for speaker</string>
@@ -237,4 +240,7 @@
     <string name="wireless_charger_quiet_mode_disabled">Disabled</string>
     <string name="wireless_charger_quiet_mode_start">Start time</string>
     <string name="wireless_charger_quiet_mode_end">End time</string>
+    <!-- QS tile -->
+    <string name="qs_tile_status_off">Off</string>
+    <string name="qs_tile_status_on">On</string>
 </resources>
