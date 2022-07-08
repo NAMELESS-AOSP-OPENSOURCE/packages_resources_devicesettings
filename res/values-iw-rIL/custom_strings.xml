@@ -196,7 +196,7 @@
     <string name="fps_info_color_blue">Blue</string>
     <string name="fps_info_color_yellow">Yellow</string>
     <string name="fps_info_color_black">Black</string>
-    <string name="fps_info_color_accent">Follow System</string>
+    <string name="fps_info_color_accent">לפי המערכת</string>
     <string name="fps_info_position_title">Overlay Position</string>
     <string name="fps_info_position_top_left">Top left</string>
     <string name="fps_info_position_top_center">Top center</string>
@@ -243,4 +243,7 @@
     <!-- QS tile -->
     <string name="qs_tile_status_off">Off</string>
     <string name="qs_tile_status_on">On</string>
+    <!-- Gamespace extra -->
+    <string name="game_automatic_title">Automatic mode</string>
+    <string name="game_automatic_summary">Enable / Disable above modes automatically according to system Game Space status</string>
 </resources>

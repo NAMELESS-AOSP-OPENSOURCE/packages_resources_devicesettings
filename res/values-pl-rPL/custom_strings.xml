@@ -155,7 +155,7 @@
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
     <!-- Alert Slider -->
     <string name="slider_title">Alert Slider</string>
-    <string name="tri_state_key_calibration_title">Enable calibration</string>
+    <string name="tri_state_key_calibration_title">Włącz kalibrację</string>
     <string name="tri_state_key_calibration_summary">Use persist calibration data for alert slider</string>
     <string name="tri_state_key_calibration_info">Toggle this only when you have issue with alert slider switch.\nYou may need to reset ringer mode after toggling this.</string>
     <string name="mute_media_title">Mute media volume</string>
@@ -243,4 +243,7 @@
     <!-- QS tile -->
     <string name="qs_tile_status_off">Off</string>
     <string name="qs_tile_status_on">On</string>
+    <!-- Gamespace extra -->
+    <string name="game_automatic_title">Automatic mode</string>
+    <string name="game_automatic_summary">Enable / Disable above modes automatically according to system Game Space status</string>
 </resources>

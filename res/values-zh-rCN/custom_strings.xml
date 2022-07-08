@@ -243,4 +243,7 @@
     <!-- QS tile -->
     <string name="qs_tile_status_off">已关闭</string>
     <string name="qs_tile_status_on">已开启</string>
+    <!-- Gamespace extra -->
+    <string name="game_automatic_title">自动模式</string>
+    <string name="game_automatic_summary">根据系统游戏空间状态自动启用/禁用上述模式</string>
 </resources>

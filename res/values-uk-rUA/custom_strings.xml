@@ -243,4 +243,7 @@
     <!-- QS tile -->
     <string name="qs_tile_status_off">Вимк.</string>
     <string name="qs_tile_status_on">Увімк.</string>
+    <!-- Gamespace extra -->
+    <string name="game_automatic_title">Автоматичний режим</string>
+    <string name="game_automatic_summary">Автоматично вмикати/виключати вищезазначені режими відповідно до стану Game Space</string>
 </resources>

@@ -243,4 +243,7 @@
     <!-- QS tile -->
     <string name="qs_tile_status_off">Aus</string>
     <string name="qs_tile_status_on">An</string>
+    <!-- Gamespace extra -->
+    <string name="game_automatic_title">Automatikmodus</string>
+    <string name="game_automatic_summary">Aktivieren / Deaktivieren Sie die oben genannten Modi automatisch entsprechend dem System-Game Space-Status</string>
 </resources>

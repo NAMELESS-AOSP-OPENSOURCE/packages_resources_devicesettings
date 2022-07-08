@@ -244,4 +244,7 @@
     <!-- QS tile -->
     <string name="qs_tile_status_off">Kapat</string>
     <string name="qs_tile_status_on">Aç</string>
+    <!-- Gamespace extra -->
+    <string name="game_automatic_title">Otomatik mod</string>
+    <string name="game_automatic_summary">Sistem Oyun Alanı durumuna göre yukarıdaki modları otomatik olarak etkinleştirin / devre dışı bırakın</string>
 </resources>

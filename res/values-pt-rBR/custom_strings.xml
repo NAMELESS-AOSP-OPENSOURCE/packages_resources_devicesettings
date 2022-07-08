@@ -243,4 +243,7 @@
     <!-- QS tile -->
     <string name="qs_tile_status_off">Desligado</string>
     <string name="qs_tile_status_on">Ligado</string>
+    <!-- Gamespace extra -->
+    <string name="game_automatic_title">Modo automático</string>
+    <string name="game_automatic_summary">Ativar/desativar automaticamente os modos acima de acordo com o modo de jogo</string>
 </resources>
